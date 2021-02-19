@@ -1,0 +1,415 @@
+WARNING:tensorflow:From /usr/local/lib/python3.6/dist-packages/gpt_2_simple/src/sample.py:17: where (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+Loading checkpoint models/124M/model.ckpt
+INFO:tensorflow:Restoring parameters from models/124M/model.ckpt
+  0%|          | 0/1 [00:00<?, ?it/s]Loading dataset...
+100%|██████████| 1/1 [00:00<00:00,  3.54it/s]
+dataset has 39597 tokens
+Training...
+[10 | 28.47] loss=3.01 avg=3.01
+[20 | 50.07] loss=2.62 avg=2.81
+[30 | 72.03] loss=2.32 avg=2.65
+[40 | 94.41] loss=2.09 avg=2.51
+[50 | 117.20] loss=2.13 avg=2.43
+[60 | 140.43] loss=1.45 avg=2.26
+[70 | 163.45] loss=1.21 avg=2.11
+[80 | 186.36] loss=0.91 avg=1.95
+[90 | 209.40] loss=0.94 avg=1.84
+[100 | 232.52] loss=0.38 avg=1.68
+[110 | 255.60] loss=0.46 avg=1.57
+[120 | 278.64] loss=0.19 avg=1.45
+[130 | 301.65] loss=0.15 avg=1.34
+[140 | 324.63] loss=0.11 avg=1.25
+[150 | 347.64] loss=0.12 avg=1.17
+[160 | 370.66] loss=0.17 avg=1.10
+[170 | 393.72] loss=0.12 avg=1.04
+[180 | 416.81] loss=0.10 avg=0.98
+[190 | 439.88] loss=0.06 avg=0.93
+[200 | 462.99] loss=0.08 avg=0.88
+======== SAMPLE 1 ========
+ v. 2). There are two Void Woken bard questions which can be resolved by either asking him about Orris' Blessing or by asking him Godwoken about it.
+
+Next is the quest, The Hunt in Divinity: Original Sin 2. Tarlene, the Lone Wolf's companion, is imprisoned in the Ebenezer jail in Cyseal, Northern Danielalfo dungeon, in the old prison in Silverglen. She is free to go anywhere she likes except Arx for his sign.
+
+Next up is the quest, Arx Versus The Seekers, which is currently in the early access phase. If you have played the main game against them for the first time this quest will become extremely tedious. If not, there is a sub-quest called, "Another Take" in The Caverns, in which you have to find a "Withermoore" giant by the name of Withermoore to prevent him from using the ship for his base of operations.
+
+After obtaining the Withermoore giant/his/its home place the players can speak to him about what to do next. His answer is "They're not my business".
+.
+
+.
+
+Endings
+At some point during this quest you will come across the angel that killed Malady. During this quest you will have to save Withermoore from Derelict magisters and to a Magister named Withermoore. You will also have to return to Derelict space and speak to her again. She will tell you that the Malady cult is about back where she first met her and they will have to find a "Withermoore" giant to prevent Derelict soldiers from stealing his soul.
+
+If you Starve yourself into thinking Derelict soldiers are behind the Malady murders the players will have to finish the quest The Lost Legacy and complete the quest Famine at the Lighthouse to receive the treasure.
+
+---------------
+
+Find The Witch In The White House
+
+Find The Witch In The White House is a quest in Divinity: Original Sin II.
+
+Walkthrough
+Speak to Mayor William Jennings in the King Crab Tavern to complete the quest.
+Go to the prison in the basement of The King Crab Inn and defeat the demon-kings Arx and Derelict.
+Return to Roland and warm up for the song, Then go to the song bed and sing it.
+(Optional) Inter-party dialogue.
+(Optional) Have him sing the song for you and Derelict to pass, Then have them give you the gig.
+(Optional) Have them hand the gig to you.
+Post-It note for the godwoken.
+
+---------------
+
+Eternal Winter
+
+Eternal Winter is a quest in Divinity: Original Sin 2.
+
+Walkthrough
+Quest is accepted until morning, October 4, 2017 at Legionnaire Headquarters.
+Speak to Aureus at the Legionnaire Headquarters. Tell him about the ghost town and about the sacrificial candles in the basement of the Legionnaire's camp.
+If the Godwoken are unable to complete The Vindictiveency, they can speak to Tarlene, who can be found in the southern part of the city, and have Tarlene speak to her.
+Once the Godwoken have been convinced that Aureus is responsible, they must destroy the candle-woken in the basement and send him on his way. Once the Godwoken are rid of the Lucian candle-woken, they have to destroy the door between the rooms and send him on his way.
+
+If the Godwoken manage to escape the basement, they have to destroy the door in the center of the room. Then, during the song "All the King Doves Do", they have to sing the song from the broken window in the center of the room.
+
+After the Godwoken have destroyed the door in the middle of the room, they have to sing the entire song again.
+
+Rewards
+ 	
+Entering the King Crab Tavern rewards 8175 exp. (This is assuming the player has no companions in their party).
+Being ambushed by Lucian wannabes rewards 14100 exp. (Note that enemies from The Lords of Middenland and Arrogg's Fate will all disappear once the quest has ended.)
+
+---------------
+
+The Murderous Gheist
+
+The Murderous Gheist is a side quest received by speaking to either Mournhold High priest or elven godwoken at the End of Time.
+
+Walkthrough
+The quest has different outcomes depending on what you choose to say.
+
+Mournhold High priest or Lord elven godwoken
+You receive the quest automatically if you speak to Mournhold High priest Elisabet above.
+
+You can also choose to not say either way:
+You are not obligated to speak with Mournhold
+
+[210 | 496.34] loss=0.06 avg=0.84
+[220 | 519.48] loss=0.07 avg=0.80
+[230 | 542.58] loss=0.08 avg=0.76
+[240 | 565.65] loss=0.06 avg=0.73
+[250 | 588.62] loss=0.06 avg=0.70
+[260 | 611.67] loss=0.05 avg=0.67
+[270 | 634.84] loss=0.05 avg=0.65
+[280 | 658.01] loss=0.09 avg=0.62
+[290 | 681.16] loss=0.07 avg=0.60
+[300 | 704.33] loss=0.05 avg=0.58
+[310 | 727.49] loss=0.04 avg=0.56
+[320 | 750.59] loss=0.06 avg=0.54
+[330 | 773.63] loss=0.05 avg=0.52
+[340 | 796.66] loss=0.04 avg=0.51
+[350 | 819.66] loss=0.04 avg=0.49
+[360 | 842.66] loss=0.05 avg=0.48
+[370 | 865.64] loss=0.05 avg=0.46
+[380 | 888.63] loss=0.03 avg=0.45
+[390 | 911.67] loss=0.05 avg=0.44
+[400 | 934.74] loss=0.05 avg=0.43
+======== SAMPLE 1 ========
+750)
+---------------
+
+They Shall Not Pass
+
+They Shall Not Pass is a side quest in Divinity: Original Sin.
+
+Quick walkthrough
+Speak to Barin on the western side of the Bloodmoon Island
+Kill Boreas
+Return to the monks and tell them of Barin's murder
+Speak to Barin
+
+Detailed walkthrough
+While in the prison cell, take this quest to complete the quest:
+Find and speak with Barin again
+Interact with the steel door on the western side of the Bloodmoon Island prison
+Speak to Boreas
+Speak to Barin
+
+Detailed walkthrough
+While in the cell across the table, take this quest to complete the quest:
+Inside the steel door on the western side of the Bloodmoon Island prison, drag Fane to yourself and speak to him
+Interact with the door
+
+Detailed walkthrough
+Inside the prison, open the door and speak to Boreas
+Inside the steel door on the western side of the Bloodmoon island prison, drag Fane to yourself and speak to him and once more than a certain point to the end of the prison the player has to offer an offering of equal or greater value to the offering made by the other prisoners. If the offer is not made the wizard will summon a hostile group called the Goblins and Knights which will then try to raid the player and foment division in Cyseal.
+
+If the wizard is not summoned or fails the above attempts the player will receive "A Pleading Letter"
+
+Rewards
+Letter to the Wizard describing your offer
+A promising letter from the wizard
+A random supply of potion in your inventory
+Randomly picked randomisation for you character
+
+---------------
+
+Be aware that the wizard is a brutal tyrant, following the will of God is a chaotic place, and the void revolves around the god itself. Will you stand by and watch as the tyrant takes over the galaxy?
+
+One of the best weapons against the god is a lightning-drenched demon named Raal, which can be defeated by draining the player's health.
+
+Another option is to use summons elementals, but they are slow and vulnerable to physical attacks.
+
+---------------
+
+The Councillor's Wife
+
+This quest is obtained in Cyseal when you speak to Esmeralda about the murder on her husband.
+
+Walkthrough
+Leave Cyseal through the North East gate right next to Legionnaire HQ. She has her servants trapped in a room at the Fort in the western part of town.
+Go to Victoria's shop and speak to her. The woman in question is extremely hostile.
+Return to Victoria's shop and enter her shop to pay your debt.
+Combine the Blood Rose and The Councillor's Wife quest.
+
+Rewards
+Blood Rose or Blood Rose and Wife
+1,000 Experience for killing Esmeralda
+300 Experience for telling the truth
+Woman in a Red Coat quest
+300 Experience for telling the truth
+ 300 Experience for killing Fortnight Victoria
+
+---------------
+
+Hot Under The Collar
+
+Hot Under The Collar is a quest in Divinity: Original Sin.
+
+Walkthrough
+In Cyseal market-place, outside the usual place to buy and sell things, is a man named Paul. He will ask you to pick him up.
+
+Walkthrough
+Go Northwest into the village of Cyseal.
+Talk to the "Hot Under The Collar". Will tell you what to do.
+Steal Paul's collar from the room. (Ordinary thief will find out)
+Head east from the stairs. Isabella will ask you to stop.
+Speak to the dog. Its a mix pack named Pinsir that is found just beyond the Cyseal Market. If you have the Pet Pal talent, you can steal it from its owner's house to the southeast of the spot where Isabella says she need to be.
+Speak to the cat. It's a mix mix and tiger named Pincer. If you have the Pet Pal talent, you can also take it with you if you take it with you.
+Speak to the cat and see if there is a gender inequality. Nope. Only by a hair's breadth do women receive equal treatment.
+Speak to the four caged albino pups. They will all express joy at being reunited.
+There is nothing quite like the chance to meet the little one, even with all of the treats they receive.
+
+Rewards
+4200 XP
++1 Bounty for finding out who found Paul
+Bonus XP of up to +1 Materialistic for reuniting the cubs
+Returned info Pincer, Pincer, Pincer-at-arms, including whether or not you confessed to him
+Convicted killer's contract states that he will pay for any testimony you give him.
+
+---------------
+
+Fire! Fire!
+
+[410 | 966.98] loss=0.03 avg=0.41
+[420 | 990.04] loss=0.05 avg=0.40
+[430 | 1013.10] loss=0.04 avg=0.39
+[440 | 1036.18] loss=0.04 avg=0.38
+[450 | 1059.30] loss=0.04 avg=0.37
+[460 | 1082.41] loss=0.05 avg=0.37
+[470 | 1105.52] loss=0.04 avg=0.36
+[480 | 1128.59] loss=0.03 avg=0.35
+[490 | 1151.63] loss=0.04 avg=0.34
+[500 | 1174.65] loss=0.04 avg=0.33
+Saving checkpoint/run1/model-500
+[510 | 1200.32] loss=0.03 avg=0.33
+[520 | 1223.49] loss=0.05 avg=0.32
+[530 | 1246.55] loss=0.04 avg=0.31
+[540 | 1269.56] loss=0.04 avg=0.31
+[550 | 1292.56] loss=0.04 avg=0.30
+[560 | 1315.57] loss=0.03 avg=0.29
+[570 | 1338.63] loss=0.02 avg=0.29
+[580 | 1361.66] loss=0.04 avg=0.28
+[590 | 1384.70] loss=0.03 avg=0.28
+[600 | 1407.68] loss=0.04 avg=0.27
+======== SAMPLE 1 ========
+ get everything in one go (unless you were playing on Low health mobs)
+Continuing across the deck, you will meet up with Crushing Fist. His fight with Magister Yarrow is the first we've seen of them. Defeat her to gain the quest.
+Head north to find you confronted by Heretic Samid. He will give you Gil (The key to unlock it is nearby, pick it up later).
+Return to the Inn to receive a quest associated with the location.
+Ask Samid about the artifacts in Hunter's Edge and he'll point you to their location.
+Continue onward and defeat the Source Nightmare, who will offer a reward in exchange for passing a blood-testing accuracy test. Simultaneously, Samid will reveal more about the tomb and the Tomb of Braccus Rex.
+Complete the quest The Captives in the Crabs to receive a reward associated with the respective location.
+Guards that guard the entrances to the tombs can be intimidating due to their conspicuous behavior. However, due to the tomb being obscured by obscured foliage, there isn't a single guard who will start a fight with the skull shaped item.
+Continue down the path until you reach the Mysterious Room. The central room is surrounded by shelves that contain magical items. You can use two characters or things of equivalent quality. A chest can be found lying on the ground on this side of the hallway. on the other side of the room is a switch. Use the switch to open the chest.
+Now continue southeast until you reach the Mysterious Room with at least one character in it. On the wall is a scroll from which you can discover the recipe for the Tomb of Braccus Rex.
+
+Use the TNT switch to disable the fireballs in the room and the third time will do the trick.
+Enter the Secret Chamber. (935xp)
+Using the same avoidance methods move southwest past the bridge several turns later. After you've looted everything, head for the tomb's mirror to the south.
+(Optional) Enter the room and navigate to the next room by using two characters as navigational aids.
+Enter the southern room and use the same avoidance methods as in the first room to the north.
+Enter the mirror to the North past the bridge. Continue northwest down the stairs until you reach the Mysterious Room.
+In the room with the mushrooms here are two of your former's best friends: Jareth and Sprout. Ask Sprout about Jake's body to trigger an inter character dialogue for a reward.
+Speak to Sprout and obtain the quest The Pickpocket's Eye. (90xp)
+Head to the Black Cove's Derelict Harbour.
+Talk to either the withered or withered target
+(Optional) Find the fugitive in the dream.
+If you have killed the assassin Shan-Mei-Ra or saved her, you will get a quest reward.
+
+Rewards
+1800 XP for killing only the withered and flea-ridden
+1525 XP for snuffing the flames
+2525 XP for escaping the Harbour
+
+---------------
+
+The Fabulous Five
+
+The Fabulous Five is a quest from Divinity Original Sin. It is obtained from Mendius when first approaching the King Crab Inn in Cyseal. Accepting Mendius' offer to join the Fabulous Five! will task you with killing the Sparkmaster from Arhu's Failed Experiment.
+
+Walkthrough
+Speak to Mendius outside the King Crab Tavern in Cyseal. You will have 4 choices to make in the following order:
++1 Independent or +1 Obedient,
++1 Bold or +1 Cautious,
++1 Altruistic or +1 Egotistical.
++1 Bold or +1 Cautious depending on whether you join the Fabulous Five.
+Speak to Arhu at Legionnaire Headquarters and ask him about his failed experiment. He will give you Arhu SparkMaster 5000 Universal Controller and tell you to pick up the Universal Controller Instruction Manual from his desk.
+To get to the cave, head out from the gate right next to Legionnaire HQ. Go North past the ghosts in the mill and turn left at the fork. Continue North at the next fork and cross the bridge, keeping North. You will have to kill a few Boars, Zombies and Mages before entering the cave.
+You will run into a group of men who will aid you in the fight. You can fight the Sparkmaster normally or refer to Arhu's Failed Experiment about either disabling its defenses or deactivating him outright.
+After you kill the Sparkmaster, return and speak to Mayor Cecil. He will tell you that the Fabulous Five have taken the gold and gone.
+
+Rewards
+4500 XP
++1 Independent or +1 Obedient
++1 Bold or +1 Cautious
++1 Altruistic or +1 Egoistical
++1 Bold or +1 Cautious
+
+---------------
+
+
+
+[610 | 1440.42] loss=0.04 avg=0.27
+[620 | 1463.59] loss=0.04 avg=0.26
+[630 | 1486.67] loss=0.03 avg=0.26
+[640 | 1509.69] loss=0.03 avg=0.25
+[650 | 1532.76] loss=0.03 avg=0.25
+[660 | 1555.88] loss=0.02 avg=0.24
+[670 | 1579.02] loss=0.02 avg=0.24
+[680 | 1602.16] loss=0.03 avg=0.23
+[690 | 1625.30] loss=0.03 avg=0.23
+[700 | 1648.41] loss=0.03 avg=0.23
+[710 | 1671.53] loss=0.03 avg=0.22
+[720 | 1694.64] loss=0.03 avg=0.22
+[730 | 1717.73] loss=0.03 avg=0.21
+[740 | 1740.84] loss=0.04 avg=0.21
+[750 | 1763.94] loss=0.04 avg=0.21
+[760 | 1787.04] loss=0.02 avg=0.20
+[770 | 1810.15] loss=0.02 avg=0.20
+[780 | 1833.27] loss=0.04 avg=0.20
+[790 | 1856.39] loss=0.03 avg=0.19
+[800 | 1879.52] loss=0.04 avg=0.19
+======== SAMPLE 1 ========
+ retreat. You will receive a quest to enter a side room only to find it immediately awry when you enter. Speak to the hatches to update the quest for 200 XP. This room is a maze of sorts. Use the hatches to proceed through it. You will run into a group of three that you can attack and kill. Go under the invisibility cloak and double back around if you feel confident enough in yourself. There is a trapdoor underneath the cloak, prevent them from escaping.
+
+There is a lever to the side of the stairs that will permanently open it. There is also a hatch at the end that leads to the deck above.
+
+Should you encounter any problem after completing the quest, you can try to re-entering the fight deck and navigating the hatch to the upper deck.
+
+---------------
+
+The Armoury
+
+The Armoury is a quest in Divinity: Original Sin II.
+
+Quick walkthrough
+
+Enter the Decrepit ruins and talk to a group of tomb raiders.
+You will be ambushed by at least one of the group.
+If you don't have a character with you, you can use a healing spell or sneak into the camp and cast a healing fireball to shatter the tomb raiders.
+The strongest party members will flee before the spell goes off, so try to sneak closer to the spell caster before it goes off.
+Go into the central room here and click on the pedestal to open up the locked doorway.
+You'll find a chest sealed off by a gag wire. Return to the central room and click on the door to open it.
+You'll find Magister Delorus back at it's roomy mirror to the left, where he will discuss how he survived the battle and escape.
+
+If you'd prefer you don't had to lead the charge, you can kill him (Reward: Legend will become uncompletable).
+NOTE: If you'd like to mute the voice, use a different character (940 XP).
+
+Reward
+940 XP for killing Lillian, +1 Reputation
+84 XP for Source, +1 Reputation
+
+---------------
+
+The Versus Tyrant
+
+This quest is obtained at the very beginning of the game by winning the Tournaments organized by The Strongman.
+
+Walkthrough
+Speak to Thelyron at Luculla Forest entrance. Grab the quest Legionnaires at the entrance of Luculla Forest.
+Head north to find Thelyron and his men. Talking to him will result in you getting an XP reward.
+Click on the statue in the center of the room to open it. You will have 5 actions to take in order to complete the quest.
+Confront Thelyron with the Legionnaires. (+1 Altruistic, 900XP)
+Confront Thelyron and his men with Thelyron's servants. (+1 Egotistical, 900XP)
+The fight will be stopped when you approach the end of the hallway.
+Continue onward and defeat Thelyron Basille, the orc scourge. During this fight, you will engage multiple npcs with fire and lightning attacks.
+The orc knight, Meistr Siva, will attack the weakest part of the party. This will void all allies.
+Note: You can engage him in combat if you so desire, but fighting him will still be your last resort.
+Note 2: The legionnaires are caged here and it shouldn't be too difficult if you get through them.
+Note 3: Meet The Scientists if youre interested in this area.
+Rewards
+4500 XP
+180 XP for each npcs defeated
++1 Reputation
+
+---------------
+
+The Skeleton King's Summoner
+
+This quest is obtained in The Black Cove, when you find a corpse with "Sam" written on it. Move some hearts onto it and it will summon a hostile skeleton with horrible smell on it.
+
+Walkthrough
+You will have to defeat the Source Hunters to progress this quest. The easiest way is to burn all area around the room and don't come too close to the forge. The party can also raid the room and kill the godwoken (they shouldn't need to be too close).
+
+Find the letter nearby and read it to advance the quest.
+
+---------------
+
+Finding Emmie
+
+Finding Emmie is a side quest given by Jake at Fort Joy in Divinity: Original Sin II.
+
+Quick Walkthrough
+Pick up the letter next to you and read it to advance the quest.
+Head West from where you entered the Fort and go to the caverns. At the center of the cavern, a sick elf will appear. Speak to him and he will suggest that you speak to him and he will ask you to kill the elf.
+Kill the elf and bring the rest of the party's gear as well.
+Speak to the skeleton and win the argument (900XP). This will resolve the quest.
+
+
+
+[810 | 1912.03] loss=0.03 avg=0.19
+[820 | 1935.12] loss=0.02 avg=0.19
+[830 | 1958.22] loss=0.03 avg=0.18
+[840 | 1981.34] loss=0.02 avg=0.18
+[850 | 2004.45] loss=0.02 avg=0.18
+[860 | 2027.55] loss=0.02 avg=0.18
+[870 | 2050.66] loss=0.03 avg=0.17
+[880 | 2073.75] loss=0.02 avg=0.17
+[890 | 2096.86] loss=0.02 avg=0.17
+[900 | 2119.97] loss=0.03 avg=0.17
+[910 | 2143.08] loss=0.03 avg=0.16
+[920 | 2166.19] loss=0.02 avg=0.16
+[930 | 2189.28] loss=0.02 avg=0.16
+[940 | 2212.36] loss=0.02 avg=0.16
+[950 | 2235.49] loss=0.02 avg=0.15
+[960 | 2258.58] loss=0.03 avg=0.15
+[970 | 2281.71] loss=0.02 avg=0.15
+[980 | 2304.81] loss=0.03 avg=0.15
+[990 | 2327.89] loss=0.03 avg=0.15
+[1000 | 2351.00] loss=0.02 avg=0.14
+Saving checkpoint/run1/model-1000
+WARNING:tensorflow:From /tensorflow-1.15.2/python3.6/tensorflow_core/python/training/saver.py:963: remove_checkpoint (from tensorflow.python.training.checkpoint_management) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use standard file APIs to delete files with this prefix.

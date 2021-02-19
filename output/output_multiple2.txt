@@ -1,0 +1,355 @@
+Report abuse to the Magister in Cyseal (Hacksaw Obliterarius)
+
+Description
+A Magister officer is arrested when heia berserkers and asks for assistance. The quest is completed.
+
+---------------
+
+Cecil's Mighty Staff
+
+Cecil's Mighty Staff is a quest given by Mayor Cecil located in Mayor Cecil's Office in Cyseal.
+
+Quick walkthrough
+After you've obtained the quest, teleport to Cyseal Harbour and head to the ship South West of the Ship that was burning in Fire! Fire! Fire!.
+Speak to Conrad on the ship and ask about the staff.
+Speak to the men chatting just off the ship and ask about Dietmar.
+Return to Conrad and tell him one of his men saw Dietmar make off with a package. The quest will continue after you have disabled the Arhu SparkMaster 5000.
+Head West from where you defeated the Arhu SparkMaster 5000 and out the exit. Keep heading West past the Waypoint Portal and you will eventually come across Dietmar and his buddies.
+If you've progressed A Mysterious Murder to the point where Evelyn disappears, then Dietmar will be hostile and attack you when you approach. If not, then you can speak to and trade with him (he has potions and daggers) but he'll turn hostile as soon as you ask him about the staff. Either way, kill Dietmar and his 6 thugs (4 are invisible).
+Pick up Staff Of Pergamon, return to Mayor Cecil and tell him you found his staff.
+Keep the staff for +1 Materialistic, -1 Reputation and 4500 XP.
+Return the staff for +1 Spiritual, +1 Reputation, 4500 XP and +5 Attitude with Mayor Cecil.
+Lastly, return to Conrad for +50 Attitude with him.
+Note: Step 8 may be bugged in that if you return to Conrad after leveling up and ask about the staff, you will be rewarded another +50 Attitude with him. This happens only once. Needs testing on 1.0.177.
+
+Rewards
+6750 XP for killing Dietmar and his buddies
+4500XP for either keeping or returning Staff Of Pergamon
++1 Materialistic or +1 Spiritual
++1 or -1 Reputation
++5 Attitude with Mayor Cecil and +50 Attitude with Conrad if you return
+====================
+Address:
+
+Steamboat Murder
+
+Steamboat Murder is a main quest in Divinity: Original Sin 2.
+
+---------------
+
+Find The Witch!
+
+Find The Witch! is a quest in Divinity: Original Sin. This quest is obtained when you speak to Councillor Jake at the end of, A Mysterious Murder.
+
+Walkthrough
+Talk to Councillor Jake. He will tell you that it was the White Witch who killed him.
+Go to Luculla Forest entrance by heading northeast from Blossius' mill from The Legionnaire's Will. Proceed to Luculla Forest via the wooden bridge.
+Head northwest from the Cyseal Road Waypoint you've just unlocked. You will come across a fleeing Immaculate named Samid who will start a dialogue with you. Exhaust all options to receive Infiltrating The Immaculates and a quest marker revealing the location of the Witch's cabin. Go there now.
+To deactivate the barrier around the cabin, speak to the talking mushroom Icari next to the cabin to get the quest Fun With Fungi. Finish this quest and remove the barrier using whichever method you chose.
+Go inside and use the mirror to teleport to a cave. Proceed until you meet Vaelanna. Kill her and loot Vaelanna's Orders. Read the Orders or the Cultist Spell in front of the magical lake to turn the lake into a portal to the faery world of Hiberheim.
+Enter the portal. You'll find Enchanted Sentinels which will crumble as you walk past them. Follow them until you see a stone spike gate blocking the path. Step on a pressure plate on the rocky part of the floor in front of the gate to open it. Send another character to the other side and use the Teleporter Pyramids to regroup.
+Directly south of the gate there is a lever you can use to permanently open it. You will be attacked by two Mecha-Rodents (Alpha) and four Mecha-Rodents (Beta).
+Follow the path northwest until you reach a fork in the path. Take the path to the northwest, but stay on the least elevated part of that path. Here you will find a hidden mound that contains a key. Continue northwest and unlock the lever to open another gate. You will be attacked by two Mecha-Roosters. After you defeat them, follow the path until you meet the Witch's apprentice,
+====================
+The path to the barrier door
+
+The path to the portal
+
+Detailed walkthrough
+Enter the room below for a more in-depth walkthrough of the area.
+Move to the right once you get past the door and you will find a portal (as seen in the screenshots). Move to it as soon as you can to continue the path.
+There are several corpses in this room. Use stealth or sneaking to get past them. Loot the Chest to find an ISK Pincer's Dagger. Loot it to the point where you need to head to the location of the necromancers.
+Use the Teleporter Pyramids to regroup.
+Continue onward to a locked door. This door will only open if you've found 12 or more blood and/or star stones. Interact with the door to proceed (5700 XP).
+Past the door, you will come across another Waypoint Portal (7590 Exploration XP). The following steps 5-9 unlock the pillars of enlightenment in this room and are optional towards completing this quest. There is nothing significant to gain by completing the puzzles aside from some XP and a couple of loot boxes.
+Step on the pressure plate in front of the stone head to open a door to the northeast. Proceed into the room and step on another pressure plate to unlock the northwest door. Be careful of the lava surface ahead of the pressure plate. Send a character through the door to the indicated spot where the door is unlocked.
+Follow the path northeast until you reach a room with four mines. Use invisibility or sneaking to get past them. Use the Hiberheim Prison Waypoint Shrine to regroup.
+Head northeast to a room with four traps. Use invisibility or sneaking to get past them. You can also use the party's other Source powers toggled on making a pact with the voidwoken. (Note that while every demon in the vicinity is capable of taking out the Fort, not all can do so Dallis needs to be killed). Be sure to crouch next to Dallis to trigger a distraction spell.
+Teleport to the forge to leave the vault. Return to the room with the dead bodies and make a pact with the voidwoken to return to the living god. Titania will take her source weapon and forge it with her. Proceed to the room with traps. Use invisibility or sneaking to get past them. Follow the path and proceed to the cave.
+
+====================
+Pastebin is a quest given by Gawin in Divinity: Original Sin.
+
+Quick walkthrough
+Speak to Gawin to acquire The Quest.
+
+Detailed walkthrough
+Upon landing on Fort Joy beach, travel south to Fort Joy camp.
+Speak to Gawin to acquire The Quest.
+
+Rewards
+6750 XP
+2925 XP for each character that does not already have the Talent Acquisition Quest (tagged "A Huntsman for Ysgramor" and available on the same room as the main quest).
++1 Reputation if you have the Talent Acquisition Quest completed.
+
+---------------
+
+The Hunt in the Historian's House
+
+The Hunt in the Historian's House is a quest in Divinity: Original Sin.
+
+Quick walkthrough
+Speak to the Historian to acquire The Hunt in the Historian's House (X:406,Y:365)
+Speak to the men who were there to the north who can be found between the camps entrance (X:158,Y:1061)
+Speak to the men who were there to the south who can be found between the camps entrances (X:158,Y:1090)
+Speak to the men who were there to the east who can be found between the camps entrances (X:158,Y:1055)
+Speak to the three Historians who were there
+Decide what to do with The Hunt in the Historian's House (X:A9,X:A27)
+Speak to the men
+Decide what to do with The Hunt in the Historian's House (X:A9,X:A27)
+There are a number of ways you can complete the quest from here:
+
+Choose to oppose him right there, He will attack you and be killed.
+750 XP for killing Eglandaer
+1800 XP for quest completion
+Eglandaer body loot, including the key for the chest in the basement.
+Kill Victoria in Mayor Cecil's library, loot her pendant and take it back to Eglandaer
+645 XP for killing Victoria
+1800 XP for quest completion
+Eglandaer Reward Chest (you will have to pickpocket his key for the chest in the basement).
+IMPORTANT NOTE: Mayor Cecil will refuse to talk to you for the rest of the game, and several quests will be permanently locked out. It will not affect the
+====================
+The Boreas has been sighted approaching the scene of the crime in Cyseal, performing a ritual sacrifice to the Divinity. He has since been known to use his teleporter pole to regroup.
+
+Walkthrough
+Speak to the head, and speak to him to update the quest (100 XP).
+Move to the right, once by a fallen tree and a subordinate will ask you to find his lost collar for him. The quest will continue after you have defeated Pontius in Crabs Versus Skeletons/ Into the Dark.
+Speak to the head and pull the trigger to open the chest.
+You'll find a second officer patrolling the area. Talk to him and exhaust all dialogue options. Continue northwest and you'll meet the Conduit making a Blood Stone. After exhausting all dialogue options, she will summon four demons and then disappear. Kill the demons and one of them will drop a parchment called Orders.
+Use the Hiberheim Castle Waypoint and go northwest into the castle of Ice King Boreas. Walking into the vision of the Watchful Sentinels on the bridge will result in you getting attacked by Ice Elementals but they shouldn't pose too much of the problem. Click on the barrier blocking the entrance and use the Orders you picked up in the forge to disable it. Go inside the castle and kill Boreas. Pick up the Elemental Staff he drops.
+Go back to the Elemental Forge and drag the Elemental Staff from your inventory onto the forge to free the other Elemental Kings. Sua, the Fire King, will give you a Fire Rune which you can use to summon him.
+Go back to the ice crystal where the White Witch is imprisoned. Use the Fire Rune to summon the Fire King. He will melt the ice crystal and free the White Witch, completing the quest.
+
+Rewards
+Impaler chance to drop from Vaelanna
+
+---------------
+
+A Dark Matter (Divinity: Original Sin)
+
+A Dark Matter is a quest in Divinity: Original Sin
+
+This quest is obtained when you speak to either the Immacualte at Hilda's Camp or Fabricio in his camp.
+
+---------------
+
+Eternal Winter
+
+Eternal Winter is a quest in Divinity: Original Sin. This quest is acquired when you speak to Almina at the end of The Lady In The Lake.
+
+Walkthrough
+Enter the Hiberheim Forest area.
+(Optional) Earn
+====================
+Once you enter the cave the player will begin the quest The Captives in the Crystals.
+
+Walkthrough
+From the Waypoint Shrine on the south beach, head southeast along the coastal path. At the end of the path a man will ask the godwoken to meet him to gain access to his room.
+
+Speak to the man and give him the quest The Captives in the Crystals.
+
+Rewards
+1 Star Stone from The Captives in the Crystals
+Bonus 2 Star Stones if godwoken fails the persuasion check.
+
+---------------
+
+The Thing Inside
+
+“
+A bad gig landed me on the wrong side of the Magisters, but how bad can Fort Joy be? If you go to the location shown here, pull the trigger and the door will lead to the ground floor of the castle.
+There are 3 different paths here.
+The path southwards is filled with invulnerable Void Demons that can only be sneaked past and also provides no XP.
+The path directly in front of the stairs is filled with invulnerable Void Demons that can only be sneaked past and also provides no XP.
+Regardless of the path you choose, they all lead to the same destination. Here is the route I took:
+4040 Exploration XP
+4590 Charisma XP (optional)
+
+Rewards
+2160 Exploration XP and 4100 Charisma XP (optional)
+
+---------------
+
+The Wild Woman and the Renegade
+
+The Wild Woman and the Renegade is a quest in Divinity: Original Sin. This quest is part of The Bear and the Burglar DLC, which is required to do this quest in the Classic Edition. This quest is obtained when you first meet Bairdotr in her cage outside the Collapsed Portal at the end of Infiltrating The Immaculates.
+
+Walkthrough
+Speak to Bairdotr outside the shop and she will ask you to find her friend Bairdotr to her home plane.
+Speak to Arhu at the entrance to the shop and ask him about finding a woman.
+Return to Bairdotr and speak to her.
+Bairdotr will ask you to find her home plane again. In here, you will find either Bairdotr or an immaculate alien named Zales.
+Choose to find Bairdotr or not.
+Once you have found Bairdotr and Z
+====================
+Kill the demon that is standing next to you, he will return to the Aureus and kill the legionnaire.
+
+Quick walkthrough
+Enter the Aureus' home plane and head to the home of Radeka
+Speak to Aureus about having her revenge on Lucian for snuffing her out.
+
+Detailed walkthrough
+Make your way to the home plane.
+Head to the home of Radeka, then face her.
+Speak to Lucian and tell him you found her voicemail.
+Tell him about the demon that imprisoned Finn.
+
+Loot the main character's bedroom door and loot the Infiltrating The Immaculates quest.
+Return to the main character and talk to Arhu
+Speak to him and give him the quest In Defense of the Divine Order.
+
+Rewards
+In Defense of the Divine Order
+Arhu's dialogue option to arrest Lillian.
+
+---------------
+
+The Fane's Will
+
+This quest is obtained when you speak to Evelyn after her battle with Trompdoy in Eastern Luculla.
+
+Walkthrough
+Evelyn, from the drop chance, needs to find someone named Zaleskar. You can find out more about them by talking to them in the library.
+Pick up the book, Zaleskar in the corner.
+Keep looking for the wrong person.
+Walk away from the room.
+Talk to the Zaleskar in the book to find out who destroyed the first floor of the castle.
+Proceed into the next room and kill the Arhu and speak to Evelyn to find out who destroyed the first floor of the castle.
+
+---------------
+
+The Councillor's Wife
+
+This quest is obtained when you speak to Evelyn after her battle with Trompdoy in Eastern Luculla.
+
+Walkthrough
+Evelyn, from the drop chance, needs to find someone named Zaleskar.
+
+Speak to Zaleskar, then come to the room where is a greasy key in the center of the room.
+Press the switch to open up the locked doorway (260 XP).
+Speak to Zaleskar, and after making a choice choose to kill him or not to kill him (260 XP).
+Note: You can speak to Arhu and Dallis if you like. But they'll silently give you the quest.
+Speak to Zales
+====================
+Proceed to the chapel and enter the basement.
+A dialogue will ensue in which you have to choose between +1 Compassionate or +1 Heartless. Either way you will earn 2100XP after they've finished talking and you can loot the skeleton.
+
+Rewards
+2100XP
++1 Compassionate or +1 Heartless.
+
+---------------
+
+Tom, The Wannabe Adventurer
+
+Tom, the Wannabe Adventurer is a quest available in Divinity: Original Sin. It is obtained from Charlene, the maid in Mayor Cecil's house. The quest is intertwined with Arhu's Failed Experiment and The Fabulous Five. It is advisable to progress all three quests to the point where you need to enter the cave.
+
+Walkthrough
+Head North from the gate right next to Legionnaire Headquarters. Continue past the ghosts and turn left at the fork. Turn North at the next fork and cross the bridge. Head North and kill the group with several boars guarding the cave entrance.
+Enter the cave and continue along the path. You will come across some Fabulous Five members that will join you. Continue along the path and face the Arhu SparkMaster 5000.
+There are several corpses in this room. Loot one of them to find Charlene's Letter. Read it to update the quest.
+Return to the Mayor's Office and speak to Charlene.
+Tell her the truth for +1 Blunt and 900XP. She will be unable to accept it and call you a liar.
+Lie to her about Tom's fate for +1 Considerate and 1050 XP.
+
+Rewards
+900 XP if you tell her the truth / 1050 XP if you lie to her.
++1 Blunt or  +1 Considerate.
+
+---------------
+
+Headless Nick
+
+This quest is picked up from a ghost called Lillian who can be found in the Black Cove.
+
+Her father, headless Nick had his head removed by the pirates. She asks you to return it to her father if you find it.
+
+Walkthrough
+You will have to complete Warming The Crowd before you can finish this quest. The alternative is to perform yourself and steal the crowd (Enhanced Edition only). See Warming The Crowd Notes. *
+
+Steal Nick's Head from the stage. (935xp)
+Enter Reginald's house. There's a trapdoor underneath the
+====================
+An epic quest is about to be completed when you meet the godwoken that you know and love.
+
+---------------
+
+Silence Broken
+
+Silence Broken is a side quest automatically acquired when player reaches Arx in Divinity: Original Sin 2 Definitive Edition.
+
+The Purity of Divinity
+This sub quest is acquired only when one of the players characters pass the Path of Blood and receive Lucians Blessing. 
+After receiving the blessing the godwoken has to have the blessed character talk with the possessed girl who can be found between Arx harbour and the city entrance.
+Once the blessed character has interacted with the girl a fight will take place.
+
+---------------
+
+What a Fuss to have Wrought
+
+What a Fuss to have Wrought is a quest in Divinity: Original Sin 2.
+
+Quick walkthrough
+
+Loan money from Sanguinia Tell
+Enjoy the money
+Pay debt or deal with Sanguinia
+
+---------------
+
+End Times
+
+“
+Here is the truth. I have killed thousands, perhaps millions, for the greater good. But I made a mistake. It was my use of Deathfog that opened the door to the God King. It upset the Veil and took the Seven by suprise. My one mistake meant all those sacrifices were for naught. Those sacrifices must have meaning. They must stop the Void, once and for all.
+„
+—Lucian
+
+End Times is a main quest in Divinity: Original Sin 2.
+
+Quick walkthrough
+Enter the Tomb and speak with Lucian and Dallis
+Side or fight with Lucian and Dallis
+Kill Braccus Rex
+Render Lucian and Dallis unconscious if sided against them
+Decide the fate of Rivellon, by choosing what to do with Divinity
+
+Detailed walkthrough
+Entering the Tomb
+This quest is accepted once godwoken enter the Tomb of Lucian. If Malady is alive she will enter the tomb with most of the Lady Vengeance crew. They will all offer their prayers to the Godwoken and thus supply them with "infinite" source.
+
+If Sir Lora survived or was not purged he will speak with the Godwoken for the last time and run off.
+
+Upon entering the room all godwoken will be dragged into conversation with Lucian and Dallis. A long conversation takes
+====================
+Steamboat Sam, a quest in Divinity: Original Sin. Sam asks you to find him abandoned ship at the bottom of the Malheus river. Upon landing on the scene of the cataclysm, William and Lillian become friends. He will lament the fact that his men have to find another ship every few months to keep up with demand.
+
+He wants to return to the trade and travel to another plane of existence.
+
+Walkthrough
+While in Cyseal market town, you will come across a fleeing Immaculate named Samid who will ask you to find his lost ship.
+
+Speak to the shell and choose to help Samid.
+
+Travel to the ship and equip the ship's pendant.
+Speak to the voice and choose to help Samid.
+Speak to the crystal and choose to help.
+
+Kill the Immaculates and equip the pendant.
+
+Detailed Walkthrough
+Make your way to the ship's landing area to the north of Cyseal. Speak to the Immaculate statues and choose to help.
+Speak to the statues and choose to help.
+Speak to the deck above and then to the east, where you will find Jijix. Speak to him to update the quest (1050 XP). The quest will continue after you have defeated the Immaculates.
+Speak to the soldiers and then to the ship. You will hear a voice calling out to you when you approach. Return to the voice and the quest will continue.
+Speak to the men and you will hear a voice calling out to you when you enter the room. You can either ignore or kill (9000 XP) the legionnaires.
+Defeat the legionnaires and continue to the northeastern-most part of the map until you reach the mine. Kill the house guard and loot the Enlightened Amulet.
+On the altar at the south entrance of the mine is a scroll from which six forbidden skills are learnt.
+Speak to the Voice that Ends the Famine.
+
+Detailed Walkthrough
+Walkthrough
+In the room to the north of the mine are two humanoids. The first you can to the north with the dwarf to speak to him.
+Speak to the dwarf and convince him to lend you the Wand.
+Speak to the elves and win the RPS game (790 Charisma XP) to complete the quest (7200 XP).
+Return
+====================

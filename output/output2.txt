@@ -1,0 +1,39 @@
+The player will be informed that they require a purging wand to help the escape
+Acquisition 2: The Purged Dragon
+
+Quick walkthrough
+Enter the Decapitatorio's house and kill the Infiltrating Wizard .
+. Pick up the Purging Wand from the wall to proceed with the quest.
+. Continue past the wall and defeat the Infiltrating Wizard.
+. Now continue past the boss and kill the companion archer.
+. Either heal or kill the archers (requires +3 Wizard level).
+. Use the wand to teleport to the open area between the screen and the boss.
+. Now proceed towards the city center.
+ . Deal with the orcs and archers (requires +3 Wizard level).
+Arrive at the Sanctuary of Amadia and speak to the group of human seekers.
+Speak to the group of seekers. This will take you to a hidden hatch. Use the hidden hatch to continue to the next area.
+Continue northeast down the cave, but be wary of the mines. They will become invisible as you approach them, but will still be where you last saw them. Your companions can step on the invisible traps so it is best to send one character in alone and use the Teleporter Pyramids to regroup on the other side. Proceed northeast down either path until you find a ladder. Use the ladder to climb up to a prison cell.
+Dig the mound in the east corner of the cell to enter the next cell, which is not locked. Leave the cell and destroy the Iron Maiden to the north to get a Blood Stone.
+Now continue southeast until you reach a room with four Watchful Sentinels. Use invisibility or sneaking to get past them. Use the Hiberheim Prison Waypoint Shrine to regroup. Proceed until you find the White Witch imprisoned in a giant ice crystal.
+Teleport to the Hiberheim Castle Waypoint to leave the prison (or if you don't have it, head further north from the skull shaped boulder where you entered the prison) and then go east where you'll find several elementals locked in battle. Defeat them and continue to the northeastern-most part of the map until you run into the cultists that guard the doors to the Elemental Forge. Kill the cultists and go through the doors.
+Continue northeast down the stairs. Talk to Jijix and exhaust all dialogue options. Continue northeast and you will meet the Conduit making a Blood Stone. After exhausting all dialogue options, she will summon four demons and then disappear. Kill the demons and one of them will drop a parchment called Orders.
+Use the Hiberheim Castle Waypoint and go northwest into the castle of Ice King Boreas. Walking into the vision of the Watchful Sentinels on the bridge will result in you getting attacked by Ice Elementals but they shouldn't pose too much of the problem. Click on the barrier blocking the entrance and use the Orders you picked up in the forge to disable it. Go inside the castle and kill Boreas. Pick up the Elemental Staff he drops.
+Go back to the Elemental Forge and drag the Elemental Staff from your inventory onto the forge to free the other Elemental Kings. Sua, the Fire King, will give you a Fire Rune which you can use to summon him.
+Go back to the ice crystal where the White Witch is imprisoned. Use the Fire Rune to summon the Fire King. He will melt the ice crystal and free the White Witch, completing the quest.
+
+Rewards
+Impaler chance to drop from Vaelanna
+
+---------------
+
+Infiltrating The Immaculates
+
+This quest is obtained when you first enter the Luculla Forest area. You will run into an Immaculate refugee, Samid when heading East from the start of this area, who will give you this quest. He will tell you that the high Immaculates are corrupted and they use forbidden Source magic. The Protagonists should find out what is happening.
+
+Walkthrough
+Meet Samid at the entrance of Luculla Forest and hear about the Immaculates and Source magic. (In DOS: EE Samid will find you when heading north from Silverglen west gate).
+Go to the chapel in Silverglen (right next to Arhu in cat form) and speak to Loic to receive The Initiation, which forms a part of this quest.
+Complete the Initiation quest before proceeding.
+Make sure you took the key to the chapel basement after you killed Loic.
+Go back to the chapel and enter the basement. You'll find a portal (as well as 2 Blood Stones on the shelves). Use this portal to teleport to the eastern part of Luculla Forest.
+Follow the winding path and then head North to a stone bridge littered with mines. This area can be navigated safely by walking on the trail of blood. Follow the trail of blood down the path and head northeast. (Enhanced Edition: mines are replaced with noxious bulbs. If
