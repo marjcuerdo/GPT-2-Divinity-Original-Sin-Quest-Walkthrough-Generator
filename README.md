@@ -6,4 +6,4 @@ Follow the instructions below to generate quest walkthrough text from the Divini
 
 This notebook is created by Marjorie Ann Cuerdo and adopted from Max Woolf's: https://colab.research.google.com/drive/1VLG8e7YSEwypxU-noRNhsv5dW4NfTGce.
 
-Open the modified Google Colab Notebook and follow the instructions there to run it using Colab's GPU (helpful for people like me without GPUs).
+Open the modified Google Colab Notebook named ("GPT_2_for_Divinity_Original_Sin_Series_Quest_Walkthrough_Generator.ipynb") and follow the instructions there to run it using Colab's GPU (helpful for people like me without GPUs).
