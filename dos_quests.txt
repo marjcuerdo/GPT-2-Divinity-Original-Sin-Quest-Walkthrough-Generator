@@ -1,0 +1,2247 @@
+DIVINITY: ORIGINAL SIN
+
+---------------
+
+A Source Hunter's Journey
+
+A Source Hunter's Journey is a quest in Divinity: Original Sin. It's the main quest of the game and its journal entry tracks the main events in the game.
+
+Journal entries
+We're ready for our first assignment: It seems the Murder of Councillor Jake is a clear-cut case of Sourcery, and we're ready to nab the perpetrator. We landed on the beach east of our destination, so we should head westward towards the city of Cyseal.
+We were waylaid by a group of tomb raiders escaping with a stone of some kind. Their leader used necromancy: a further indication that Source is in play in Cyseal. We could investigate the tomb or keep heading towards the city.
+We met an angry undead in the catacomb from which the tomb raiders emerged. He told us they stole a 'Blood Stone'; an ominous nome, to be sure.
+We wandered straight into an orc assault on the beaches if Cyseal, but they were no match for us in combat. They were lead by a human, and it can hardly be a coincidence that he was dressed like the tomb raiders we met earlier. What on earth is going on here?
+We met with Arhu, wizard capable of turning himself into a cat- or is it vice versa? He told us to meet with Captain Aureus, the ranking officer in Cyseal, in the Legion Headquarters.
+
+---------------
+
+A Mysterious Murder
+
+A Mysterious Murder is a quest in Divinity: Original Sin and Divinity: Original Sin - Enhanced Edition. The player starts the game with this quest and it is the reason for the player character's arrival in Cyseal.
+
+Walkthrough
+After Orc Fight on the Beach, head towards Cyseal's gate to talk to Arhu to update your Journal.
+Speak to Aureus at Legionnaire HQ for permission to investigate the scene of the crime.
+Speak to Arhu upstairs for some additional info about the night of the murder. He suggests that you question Roberts at the Morgue.
+Visit the scene of the crime at the inn and a Star stone will activate. This will teleport you to The End of Time if this is your first stone, or unlock a room in your Homestead. Pick up the letter in the chest to obtain or update The Councillor's Wife.
+Speak to Bertia in Cyseal market to obtain the parallel quest Little Bo Bertia Lost Her Sheep.
+Visit Roberts in the Mortician's Morgue (180 XP) or head straight to the graveyard and dig up the grave with the tombstone that says "Here Lies Jake". Open the coffin for 390 XP (180 Exploration XP) and to update Little Bo Bertia Lost Her Sheep.
+Head to the Mortician's Morgue and save before you speak to Roberts. Ask him about Jake's body to initiate a game of RPS. Win the game to update the quest (230 XP, 150 Char XP). You will have to read Roberts' Journal on the ground floor if you lose the game to advance the quest.
+Speak to Aureus about having Roberts arrested for a choice between +1 Righteous or +1 Renegade. You can now complete Little Bo Bertia Lost Her Sheep as well.
+(Optional) Ask Roberts about the gold and win another game of RPS (115 Char XP) to acquire it. You can either choose to keep this 300 gold (+1 Egotistical, -25 Attitude with Bertia) or return it to Bertia (+1 Altruistic, + 25 Attitude with Bertia). Either choice needs to be made in the dialogue with Bertia.
+Now you must denounce Evelyn to proceed with this quest, so:
+Complete The Councillor's Wife quest, and confront Esmeralda after completion.
+(Optional) This is possible only if you have the Pet Pal Talent. Visit Legionnaire HQ and steal the Smelly Shoes from The Mayor's cupboard. Visit Esmeralda's House and steal the Smelly Panties from her bedroom chest upstairs. Visit Thelyron's Healing House and steal the Smelly Coat from the cupboard in the corner of the ward (where you were forced to choose which patient's life to save). Visit Aureus' Office and steal the Smelly Socks from the cupboard next to the bed. Return to the graveyard ask Murphy (Jake's dog) about Jake's body (100 XP) and have him smell all four items for 4 XP rewards. Murphy will recognize Jake's smell on Evelyn's coat (360 XP).
+Evelyn will now disappear. Return to the ward in Thelyron's Healing House and open Evelyn's Backpack for a key to her house. (Drag the backpack to your inventory if you want it). Speak with Thelyron about this and he will point you to her house (600 XP).
+Head South West from here to Evelyn's House. Loot the Chest and Bookshelf in the South East corner for Evelyn's Diary and the Reveal Spell (300XP). Read the Diary to update the quest (900XP).
+Teleport to the Cyseal - Secluded Beach waypoint portal and head South from where you confronted Dietmar. If you do not have this waypoint yet, you will have to complete Arhu's Failed Experiment and go through the West exit in the cave. You will also want to pick up Cecil's Mighty Staff and kill Dietmar to update both quests.
+Use the Reveal Spell (1050 XP) when standing next to the torches to the south of Dietmar's location. Your companions will comment on the hidden lair when you are nearby.
+Enter the hideout and kill the lone Cultist before he can run for reinforcements. He will have a key on him.
+Either fight and kill the Orcs for 4 x 900 XP or win a game of RPS for 790 Charisma XP.
+Unlock and go through the door and then through the next door immediately on your right. You can either ignore or kill (9000 XP*) the numerous Cultists before you go through the door.
+Head down the stairs to face and kill Evelyn and update the quest (1050 XP). Speak to Zombie Jake to complete the quest, (If you'd already killed Evelyn in town, you will face her as a zombie instead).
+
+---------------
+
+A Shell on the Beach
+
+A Shell on the Beach is a side quest in Divinity: Original Sin
+
+Quick walkthrough
+Decide Ishmashell's fate.
+
+Walkthrough
+From the Waypoint Shrine on the south beach, head southeast along the coastal path. At the end of the path Ishmashell can be found lamenting being beached and want to return to the sea. Speak to the shell and he will explain his plight and desire to return to the watery depths, offering a reward in exchange for assistance.
+
+If the Source Hunters disagree, they will resort to a rock, paper scissors challenge to determine the path taken. The choices made will affect their ego or altruism.
+
+If the decision to return him to the sea is made, Ishmashell will return to the depths and throw out a chest containing Mermaid's kiss and potentially other items. If taken by the Source Hunters, he can be sold or consumed for a +10% permanent Water Resistance bonus. You can also cook him to make Cooked Ishmashell and eat him for infectious disease.
+
+---------------
+
+The Talking Statues
+
+This quest is obtained at the very beginning of the game by reading a Traveller's Journal found on a corpse on the way to Cyseal.
+
+Walkthrough
+Read the journal to initiate the quest (300 XP). A dialog between the characters ensues for +1 Pragmatic or +1 Romantic depending on your dialogue choices.
+Talk to the Beggar in Cyseal (South of Legion's Headquarters, East of Esmeralda's Shop outside an abandoned building) to update the quest (100 XP). Initiate a dialogue between your characters for +1 Spiritual or +1 Materialistic. You will need to defeat the Sparkmaster from The Fabulous Five  / Arhu's Failed Experiment to continue the quest.
+You will need a damaging spell or scroll for each of the four elements to continue- Fire, Water, Earth and Air.
+Exit from the other end of the cave with the Sparkmaster. Head Northwest to find the statues.
+(Optional) To the west of the statues and on the beach, you'll find A Dead Man's Corpse and a crab called Pincer nearby. If you have the Pet Pal talent, talk to Pincer and he will tell you about the corpse. Initiate an inter character dialog for +1 Bold or +1 Cautious.
+Talk to any one of the statues and exhaust all dialog options. Attack any one of them by using a damaging spell or scroll of an element associated with the statue (e.g. Fire spell for the Fire statue). An elemental demon will appear and attack you. Defeat all four demons to complete the quest. (Note that spells of their own element type will heal them).
+An entrance to a cave will be revealed to the north once all four of the demons have been defeated. Inside, you'll find the imprisoned wizard Bellegar.
+
+Statues' Deeds
+The wind statue told a man he can fly
+The fire statue told a man to burn his possession
+The water statue told a man he can breathe underwater
+The earth statue showed a man his ending
+
+---------------
+
+Guards at the Bridge
+
+Guards at the Bridge is a quest in Divinity: Original Sin. This quest is obtained on the way to Cyseal after the tutorial dungeon.
+
+Walkthrough
+Go North East from the tutorial dungeon and you will come across two DOS Status Effect Drunk.pngDrunk guards on a bridge, Junius and Bibius.
+Speak to the guards and make a choice:
+Agree to follow the guards to the town mage. (+1 Obedient, 900xp)
+Refuse a drunken escort. (+1 Independent, 180xp)
+This choice will make the guards attack you.
+(Optional) Kill the guards. (900xp)
+(Optional) A conversation between the main characters gives you either +1 Compassionate or +1 Heartless, depending on your choice.
+
+---------------
+
+Orc Fight on the Beach
+
+“
+A platoon of orcs attacked the harbour and beach of Cyseal but were defeated
+„
+
+Orc Fight on the Beach is a quest in Divinity: Original Sin.
+
+Walkthrough
+After crossing the bridge for Cyseal beach and approaching the main gates of Cyseal from the ridge, an orc ship will land at the beachhead, alongside a mysterious black figure. The legionnaires will then engage the landing party in combat.
+
+The orcs themselves must be defeated in combat (the outcome for the legionnaires does not affect the result) so the hunters can either immediately join the fray or wait and observers the tide of battle before engaging.
+
+---------------
+
+Fire! Fire! Fire!
+
+“
+A ship has been set on fire by the orcs in the harbour!
+„
+
+Fire! Fire! Fire! is a quest in Divinity: Original Sin.
+
+Walkthrough
+Pick up the Rain spell from the corpse near the start of the game.
+After speaking to Arhu at the gates of Cyseal (or alternatively, turning left on the beach before the bridge to the city gates), you will find a burning ship at the docks to the West.
+Cast the Rain spell to extinguish the fire and complete the quest (900XP, +1 Reputation). If you don't have a Rain spell on hand, it is possible to recruit Jahan for this purpose (in the upstairs library of Mayor Cecil's house). The quest will fail if you do not extinguish the fire quickly.
+Alternatively, water balloons can be thrown at the fire to extinguish it.
+
+---------------
+
+The Shipless Sailors
+
+The Shipless Sailors is a quest in Divinity: Original Sin.
+
+Walkthrough
+Speak to the 3 sailors to the South West of the burning ship from Fire! Fire! Fire!,
+Go to Cyseal market and speak to Captain Jack next to the fountain. Ask him if he is willing to recruit the sailors and he will agree.
+Speak to Mendius at the entrance to the King Crab Tavern and ask him about finding work for the sailors. If this is your first time speaking to him, refer to The Fabulous Five for trait choices. 
+Return to the sailors and make a choice: 
+Tell the sailors about Captain Jack's offer for +1 Altruistic.
+Tell the sailors about  the Fabulous Five for +1 Egotistical.
+
+---------------
+
+Charmed, I'm Sure
+
+Walkthrough
+Speak to the guards, Marius and Nimbus, who are standing next to an orc in the courtyard of the Cyseal Harbour warehouse.
+Make a choice at the end of the dialogue to complete the quest:
+Declare that the potion will fade off and the orc might become too dangerous for +1 Pragmatic Trait.
+Agree that the orc is fully in love for +1 Romantic Trait.
+
+---------------
+
+The Councillor's Wife
+
+This quest is obtained in Cyseal when you speak to Esmeralda about the murder on her husband.
+
+Walkthrough
+Visit Esmeralda's shop and speak to her. She will proclaim her innocence.
+Steal Esmeralda's house key from upstairs. Sneak into her study by either using the sneak ability or the back entrance to the house. (90xp)
+Pick up the book, The Perfect Murder, from the desk. (260xp)
+Proceed into the next room and steal the Inn Chest Key and go down to the basement.
+(Optional) There's an additional key hidden underneath the barrels that opens the chest in this room.
+Pick up the Ham from the wall to reveal a switch. Press the switch.
+(Optional) There's an additional key at the far end of this room that opens the chest behind the iron bars.
+Enter the Secret Chamber. (200xp)
+Pick up the Bloody Dagger from the table (260xp).
+Go to the King Crab Tavern and visit the scene of the murder. Open the chest to pick up the Poem (260 XP).
+Confront Esmeralda with the evidence. (200xp)
+She will claim to be innocent but reveal that Jake has been in close company with Evelyn for the past few months.
+Return to Aureus and discuss Jake's murder and Esmeralda to obtain a dialogue option to arrest her.
+Choose to arrest her based on the flimsy evidence for +1 Renegade (1800 XP).
+Choose not to arrest her for +1 Righteous (1800 XP)
+If you arrested Esmeralda, then after completing A Mysterious Murder you can go to Aureus to have her released from prison for +1 Reputation (900 XP).
+
+Reward
+260 XP for each incriminating item found
+1800 XP for considering having her arrested
+900 XP for releasing her from prison
++1 Righteous or +1 Renegade and +1 Reputation
+
+---------------
+
+Elf-Orc Blood Feud
+
+Elf-Orc Blood Feud is a quest available in Divinity: Original Sin. 
+
+Elf-Orc Blood Feud is a side quest given by Eglandaer, an Elf located in Cyseal, to the South West of the cemetery. He'll ask to speak to you on the 2nd floor of the King Crab Inn.
+
+Walkthrough
+Speak to Eglandaer, who can be found to the South West of the cemetery, to obtain the quest.
+Speak to him again upstairs at the Inn.
+Merely entering his room grants you 90xp. (90xp)
+He asks you to kill Victoria (the orc librarian in Mayor Cecil's house) and bring him her Amulet.
+(Optional) Inter-party dialogue.
+Condemn the orc for their vile behavior. (+1 Vindictive)
+Absolve Victoria of her kin's crimes. (+1 Forgiving)
+There are a number of ways you can complete the quest from here:
+
+Choose to oppose him right there, He will attack you and be killed.
+750 XP for killing Eglandaer
+1800 XP for quest completion
+Eglandaer body loot, including the key for the chest in the basement.
+Kill Victoria in Mayor Cecil's library, loot her pendant and take it back to Eglandaer
+645 XP for killing Victoria
+1800 XP for quest completion
+Eglandaer Reward Chest (you will have to pickpocket his key for the chest in the basement).
+IMPORTANT NOTE: Mayor Cecil will refuse to talk to you for the rest of the game, and several quests will be permanently locked out. It will not affect the main story line though.
+Talk to Victoria and convince her to lend you her amulet, then take it back to Eglandaer for your reward.
+300 XP + 300 Charisma XP for convincing Victoria
+1800 XP for quest completion
+Eglandaer Reward Chest (you will have to pickpocket his key for the chest in the basement).
+NOTE: You can speak to Aureus at Legion HQ prior to confronting Eglandaer for +1 Righteous. Tell Aureus that someone needs to be arrested and mention Eglandaer. You won't be able to get him arrested due to a lack of proof, but you'll still earn +1 Righteous for trying.
+NOTE: Instead of pickpocketing Eglandaer after giving him Victoria's amulet, you can attack him as he walks away and loot his body. Close the room door before you attack him or you will have to fight all the occupants of the floor.
+Pickpocket the amulet from Victoria, then take it back to Eglandaer.
+1800 XP for quest completion
+Eglandaer Reward Chest (you will have to pickpocket his key for the chest in the basement).
+As with the 3rd option, there is the possibility to earn +1 Righteous and to attack Eglandaer instead of pickpocketing him.
+Speak to Victoria and choose to pursue arresting him. When you bring it up with Aureus, he will ask for proof. Pickpocket Eglandaer for his Bloody Amulet and turn it in. For Eglandaer to be arrested you must visit the upper floor of the King Crab Inn, where you will witness a legionnaire arresting Eglandaer in his room. Return to Victoria in her library to complete the quest.
+300 XP and +1 Reputation for nailing Eglandaer
+1800 XP for quest completion
+Eglandaer body loot, including the key for the chest in the basement (to get this, go to the prison in the basement of Legion HQ and open the door of his cell. The guards will kill the fugitive. OR, use a teleport spell, like Expert Marksman or Tactical Retreat to get inside his cell and assassinate him (750 XP). The guards will not intervene if the door is closed).
+Victoria's reward chest if you avoid assassinating Eglandaer in his cell and talk to Victoria instead.
+
+Rewards
+1800 XP for completing the quest, no matter the way you do it
+Various amounts of XP depending on how you complete it
++1 Forgiving or +1 Vindictive after you speak with Eglandaer for the first time at the Inn. (Dialogue between the two Source Hunters)
++1 Reputation if you have Eglandaer arrested and also either +1 Righteous or +1 Renegade in the arrest dialogue.
+Eglandaer Reward Chest if you can get his key
+
+---------------
+
+The Fabulous Five
+
+The Fabulous Five is a quest from Divinity Original Sin. It is obtained from Mendius when first approaching the King Crab Inn in Cyseal. Accepting Mendius' offer to join the Fabulous Five! will task you with killing the Sparkmaster from Arhu's Failed Experiment.
+
+Walkthrough
+Speak to Mendius outside the King Crab Tavern in Cyseal. You will have 4 choices to make in the following order:
++1 Independent or +1 Obedient,
++1 Bold or +1 Cautious,
++1 Altruistic or +1 Egotistical.
++1 Bold or +1 Cautious depending on whether you join the Fabulous Five.
+Speak to Arhu at Legionnaire Headquarters and ask him about his failed experiment. He will give you Arhu SparkMaster 5000 Universal Controller and tell you to pick up the Universal Controller Instruction Manual from his desk.
+To get to the cave, head out from the gate right next to Legionnaire HQ. Go North past the ghosts in the mill and turn left at the fork. Continue North at the next fork and cross the bridge, keeping North. You will have to kill a few Boars, Zombies and Mages before entering the cave.
+You will run into a group of men who will aid you in the fight. You can fight the Sparkmaster normally or refer to Arhu's Failed Experiment about either disabling its defenses or deactivating him outright.
+After you kill the Sparkmaster, return and speak to Mayor Cecil. He will tell you that the Fabulous Five have taken the gold and gone.
+
+Rewards
+4500 XP
++1 Independent or +1 Obedient
++1 Bold or +1 Cautious
++1 Altruistic or +1 Egoistical
++1 Bold or +1 Cautious
+
+---------------
+
+Arhu's Failed Experiment
+
+After accepting The Fabulous Five quest, talk to Arhu about his failed experiment. He'll give you Arhu SparkMaster 5000 Universal Controller and allow you to take Universal Controller Instruction Manual with instructions on how to use the remote.
+
+Walkthrough
+Go to the cave, mentioned in The Fabulous Five quest. There you will meet three soldiers who will aid you in the fight with the SparkMaster 5000.
+You can fight the Arhu SparkMaster 5000 normally or use the remote to your advantage.
+Use the remote's Weapon Deactivation Mode (Sleepy-Sleepy-Happy) to disable the Sparkmaster's defenses and weaken him.
+To deactivate it completely instead, use Party Mode (Happy-Happy-Happy) followed by Self Destruct Mode (Angry-Angry-Sleepy) on your next turn. This option will give you no XP.
+Note: You can only use a combination once. (Update: this may only be true depending on edition/version. The latest GOG D:OS EE version as of 10/8/2018 allows deactivate weapons to work multiple times)
+Note: The remote control is currently (2017-12-27) bugged and sometimes the only command that works is self-destruct - confirmed by multiple sources. Results may vary.
+Note: When using the remote, if the character has exactly the amount of AP needed to use it, using it will automatically end the turn, potentially allowing the SparkMaster to use its attack before you disable it.
+If any of the soldiers survived the fight, return to Cyseal and go to the prison in the basement of Legionnaire HQ. Talk to Richard and win the RPS game (790 Charisma XP) to gain access to the treasure room.
+NOTE: If you did not join the Fabulous Five, it is still possible to receive the quest once you enter the cave, after which the remote control can be retrieved.
+
+---------------
+
+Kitty Love
+
+Requires Pet Pal.
+
+Kitty Love is a quest obtained from the cat, Unsinkable Sam, who can be found in the King Crab Tavern in Cyseal. One of your characters will require the Pet Pal Talent to receive the quest. Sam asks for assistance in finding out why a neighboring cat in Mayor Cecil's Office, Maxine, is uninterested in him.
+
+Walkthrough
+Speak to Unsinkable Sam in the King Crab Tavern to obtain the quest.
+Speak to Maxine in Mayor Cecil's Office about Unsinkable Sam. (90xp)
+Return to speak to Sam. (90xp)
+Sam will ask you to find his lost collar for him. The quest will continue after you have defeated Pontius in Crabs Versus Skeletons/ Into the Dark.
+
+Take the Ominous Black Gate Key from Pontius' body to open the locked door south of the area where you witnessed the orcs fighting skeletons.
+Continue along the linear path and defeat the Source Nightmare, who will drop Sam's Collar and update the quest (840 XP).
+Return to the Inn and tell Sam you found his collar to complete the quest.
+Follow Sam to the Mayor's Office and wait for the dialogue to end. Initiate an inter character dialog for +1 Pragmatic or +1 Romantic.
+
+Reward
+1260 XP for killing Source Nightmare
+1400 XP
++1 Romantic or +1 Pragmatic
+
+---------------
+
+Warming The Crowd
+
+Warming the Crowd is a quest available in Divinity: Original Sin.
+
+Walkthrough
+Speak to either Cedric or Gallagher In the southern part of Cyseal town to initiate the quest.
+Speak to Gallagher, and report back to Cedric after learning that Gallagher is a crowd warmer.
+Speak to Gallagher again, and try to convince him to warm Cedric's crowd instead. Complete the RPS check. (130xp + 115xp)
+Both Intimidate and Charm checks receive a +1 bonus.
+Failing this RPS check finishes the quest without reward.
+Speak to Reginald once the crowd has switched sides to complete the quest. (90xp)
+Alternatively, you can follow these steps if you fail the RPS check with Gallagher (The journal entries for these steps are written down in the quest Headless Nick).
+
+Speak to either Cedric or Gallagher In the southern part of Cyseal town to initiate the quest.
+Speak to Katarina to prepare the stage for your own performance.
+(Optional) Speak to Gallagher, and bribe (-100g) him to warm the crowd for your own stage.
+If you do not bribe him, you will only attract a couple of people to your stage, making it nigh-on impossible to perform the last step.
+Speak to the Stage Master to start either a one-man show or a two-man show.
+Read the following books in the library to gather source materials:
+'Cracking up a Crowd: the Definitive Guide'
+'Cyseal's Genesis: a Play'
+Complete the play, and steal Nick's Head.
+
+Reward
+130 XP for updating the quest
+115 XP for winning the Charisma game
+90 XP for completing the quest
+
+---------------
+
+The Apprentice Of The Stone
+
+The Apprentice Of The Stone is a quest in Divinity: Original Sin.
+
+Walkthrough
+Speak to Evelyn in Thelyron's Healing House to initiate the quest.
+Evelyn, the apprentice healer, asks you to decide which one of her patients she should heal with her magic stone. She can only heal one of them while the other will die. (300xp)
+Choose Steven, an older man with many grandchildren. (+1 Romantic)
+Choose Boris, a younger man with a knack for business. (+1 Pragmatic)
+Evelyn uses her stone. (180xp)
+NOTE: If you had not explored the scene of the crime in A Mysterious Murder prior to this, you will be teleported to the End of Time after you make your choice. Otherwise, you will unlock one of the rooms in your Homestead.
+
+Reward
+300xp from the quest
+180 Exploration XP after Evelyn uses her stone
++1 Romantic or +1 Pragmatic depending on whether you choose Steven or Boris.
+
+---------------
+
+Legionnaires At The Church
+
+Legionnaires at the Church, (renamed Expedition Church in the Definitive Edition) is a quest available in Divinity: Original Sin.
+
+Aureus, the watch commander, dispatched a unit of guards to the old church of Cyseal, but he has not heard from them since. He asks you to look into the matter.
+
+Walkthrough
+Leave Cyseal through the North East gate right next to Legionnaire HQ. Head North for a bit until you reach the ruined water mill. Inside the mill, you will find two frightened undead, Blossius and Livia.
+Speak to Blossius to learn that all the legionnaires sent to the church are either dead or have been turned into undead (840 XP). Blossius will also give you the quest The Legionnaire's Will.
+Report back to Captain Aureus at Legionnaire HQ to complete the quest (600 XP)
+NOTE: In the Enhanced Edition, you may have to talk to Selenia in front of the Cook's House to complete the quest.
+
+---------------
+
+The Grieving Orc
+
+This quest is obtained from a crying orc named Broggnar on the beach West of Cyseal Harbour. Note that if you find and dig the grave belonging to the orc's brother beforehand, you will never receive this quest.
+
+Walkthrough
+Head out of the city from the arch directly to the West of the Cyseal Harbour Waypoint Portal.
+Head North past all the corpses and then West.
+Talk to Broggnar to initiate the quest. Ask him what the burial ritual is.
+In the dialogue that ensues, choose to know more about the grave for +1 Materialistic or to leave the bereaving orc alone for +1 Spiritual. Choosing the spiritual option will complete the quest and give you no XP. Following are instructions for if you choose the Materialistic option.
+At this point, you could just find the grave yourself though you will lose out on 1080 XP.. Go West from Broggnar to find 4 torches. The grave is right above them on the sandy patch, and you will need 10 Perception to see it.
+Speak to Broggnar again and try to convince him to tell you where the grave is exactly (645 Charisma XP). Pick the Reason choice for a +1 bonus in the mini game.
+Broggnar will take you to his brother's grave (180XP). You will still need 10 Perception to be able to spot the grave, though you can also stand on the dig spot and manually use the shovel. Broggnar will attack you if he sees you defiling the grave. Kill him for 900XP.
+NOTE: Coordinates of body are x100 y71.
+
+Reward
+645 Charisma XP for winning the RPS game
+180XP if Broggnar takes you to the grave
+900XP for killing Broggnar
+Orc Body Armour and Metal Orc Helmet from the grave
+
+---------------
+
+The Legionnaire's Will
+
+This quest is obtained in Cyseal from a ghostly legionnaire named Blossius located at the mill just north of the Legionnaire Headquarters.
+
+Walkthrough
+Read Blossius's Will to trigger an inter character dialogue for a choice between +1 Compassionate or +1 Heartless.
+(Optional) Alter the Will using Ink Pot and Quill or Magic Ink Pot and Quill to make Blossius's Altered Will with which you become the sole benefactor of the will. There is no penalty for doing this. Do not read the will in first place if you want to get a "Mister Nice Guy" achievement *
+Head North from the Cyseal-Silverglen Road Waypoint Portal and into Luculla Forest.
+Go East then North at the fork into Silverglen.
+Head to the Inn to the North East of the village.
+Speak to the waitress, Marisa, to give her the altered/unaltered will for your reward.
+
+Rewards
+3375 XP
++1 Compassionate or +1 Heartless once you read the will
+Lockbox with Item Lvl 12 - 13 item(s) if you altered the will.
+Mister Nice Guy achievement if you did not alter the will. *
+* works for enhanced edition, don't know if it is same for classic.
+
+---------------
+
+The Scaredy Pact
+
+You can get this quest from Aureus by asking him about "Matters concerning the Legion" along with 2 other quests. Aureus tells you that he'd dispatched several of his men to investigate rumors that the old lighthouse is haunted and hasn't heard from them since. He asks you to look for them.
+
+Walkthrough
+Go through the Northwest archway of Cyseal, keep heading West past several groups of enemies. You will find a ruined house and a corpse with Orders. Read it to update the quest (180 XP).
+Keep heading Northwest until you find the Cyseal West Waypoint Portal. Head West from here and you'll meet another group of undead. Fight them or evade them. (They guard a Hidden Hatch that leads to The Strongman quest).
+Keep heading West and you will hear 2 Legionnaires who are cowering under a tree. Speak to them to update the quest (180 XP) and then continue West. (Note, killing the Legionnaires prevents you from completing the mission.)
+
+You'll arrive at the lighthouse and face The-Ghoul-That-Guards-The-Lighthouse boss, accompanied by several undead. Kill them. The easiest way is to burn all area around the boss and don't come too close to him. Thanks to oil barrels standing nearby. See below for a more in-depth strategy.
+Enter the lighthouse and head downstairs. Speak to Samson the ghost to update the quest for 200 XP. He will task you with Lost Love at the Lighthouse and tell you his story.
+You can now return to the two cowering legionnaires and talk to them. You can decide whether to tell them what you have seen (+1 Altruistic), or tell them to find out for themselves (+1 Egoistical).
+If you tell them your story, they will return to the Aureus and try to claim your achievements as their own. Either corroborate their version (+1 Considerate) or tell Aureus what really happened (+1 Blunt, +1 Reputation). If you go with the blunt option, the guards will be sentenced to menial potato-scrubbing at the Cook's house.
+If you do not tell the guards what you have seen, they will bravely dash into the lighthouse only to flee in terror a little later.
+NOTE: In the Enhanced Edition, you have to report to Lieutenant Selenia for rewards. She is in front of The Cook's House (East of the Cyseal North Waypoint Portal).
+Strategy for the Boss
+Since this is likely the first boss you will face, here is a more detailed guide on dealing with him.
+
+This boss isn't all that hard to handle as long as you are able to neutralize him and kill the Exploskeleton in your first round. Otherwise the boss will keep raising his allies back from the dead. The undead archers can also dish out a decent amount of damage.
+
+Use Jahan's DOS Skill Bitter Cold.png Bitter Cold or Madora's DOS Skill Crushing Fist.png Crushing Fist to neutralize the boss by freezing or knocking him down. Then you need to take out the Exploskeleton. This will kill the adjacent undead archers, leaving just the 3 very easy to kill wolves. If you have a Scoundrel, you can try to sneak closer to the Exploskeleton and use a fireball scroll on him.
+
+Chip away at the boss and keep neutralizing him once any stuns applied wear off or he will resurrect his allies. Be sure to move melee attackers out of the way before the Boss dies as he will explode into a pool of poison.
+
+Since this boss has a high chance of dropping legendary gear, make sure you save right before the killing blow and reload if you feel cheated.
+
+Reward
+5150 XP for killing all enemies
+6300 XP (if you say that the soldiers have cleared the lighthouse) / 3000 XP (if you say that you've done it)
++1 Reputation
+You will receive +1 to Traits on one or both choices depending on whether you tell the guards your story or not
+Clobbering Time drop chance from The-Ghoul-That-Guards-The-Lighthouse
+
+---------------
+
+Little Bo Bertia Lost Her Sheep
+
+Little Bo Bertia Lost Her Sheep is a quest available in Divinity: Original Sin.
+
+This quest is connected to the main quest in Cyseal, A Mysterious Murder although it is not strictly necessary to take this route to complete that quest.
+
+Walkthrough
+You receive this quest from Bertia who can be found in Cyseal Market Square to the South East. She may be hidden from view under a cloth shed at the Southeast corner of the market.
+
+Speak to Bertia who is located in Cyseal Market.
+Go to the Cyseal Cemetery Northwest of Cyseal.
+Find and dig up the grave next to the agitated dog. The grave has a tombstone that say "Here Lies Jake". You will need a Shovel which can be found next to one of the nearby graves.
+
+Open the coffin that pops up from the ground. It is not necessary to collect the (extremely heavy) Sheep's Corpse as your journal will update as soon as you open the coffin.
+Go back to Bertia and speak to her about her stolen sheep.
+Speak to Aureus at Legionnaire HQ. Tell him about Jake's corpse and he will suggest talking to Roberts, the town's mortician who burries all the bodies.
+Roberts is found in the western part of the city, upstairs in the 'Mortician's Morgue'. Save before talking to him and ask him about Jake's corpse to trigger a game of Rock Paper Scissors that you must win. Pick reason for a +1 boost to points won each round. After winning he will confess that he stole Bertia's sheep in order to place it in Jake's coffin.
+(Optional) Immediately close the dialogue and save again. Now speak to Roberts and ask him about the gold to start another game of RPS and win. Pick reason again for a +1 bonus.
+Return to Bertia, informing her about the sheep thief for +50 Attitude with Bertia. The quest has now been completed.
+(Optional) Bertia will storm off to speak to Aureus but will return to the market thereafter. Speak to her again and either give her the 300 gold (+1 Altruism, +25 Attitude with Bertia) or keep it for yourself (+1 Egotistical and -25 Attitude with Bertia). There is no point gaining attitude with Bertia as she sells no items. Even though she sells no item it helps in the beginning of the game to have someone to whom you can sell loot without too much loss. If you keep the money you will be 300 gold richer.
+(Optional) Once Roberts has confessed, you can speak to Aureus about having him arrested to trigger another choice for either +1 Righteous or +1 Renegade.
+
+Reward
+1525 exp
++50 Attitude with Bertia
++1 Altruism or +1 Egotistical depending on whether you decide to give up or keep the gold.
++1 Righteous or +1 Renegade depending on whether you decide to have Roberts arrested or not.
+
+---------------
+
+Lost Love at the Lighthouse
+
+This quest is obtained from the ghost of Samson who can be found in the basement of the Lighthouse West of the Cyseal West Waypoint Portal. He will tell you his story and about a women that you need to find to deliver a message.
+
+Walkthrough
+If you have the Cyseal West Waypoint, skip to step 3.
+Head West from the Cyseal North Waypoint Portal, through the archway. Keep North West and fight your way to the lighthouse.
+There is a miniboss from The Scaredy Pact quest you must deal with before you can enter the lighthouse. Shouldn't be too hard as long as you keep him neutralised and take out the Exploskeleton (and adjoining archers) early.
+Enter the basement and speak to Samson to acquire the quest. The quest will continue after you have defeated Pontius in Crabs Versus Skeletons.
+Pick up Pontius' key and head for the locked door south of the fight you witnessed between orcs and skeletons.
+Continue along the linear path and take out the miniboss. Proceed East past the boss and you will find a female ghost. Speak to her to update the quest (1050 XP).
+Return to Cyseal lighthouse (use the West Waypoint Portal) and enter the basement.
+A dialogue will ensue in which you have to choose between +1 Compassionate or +1 Heartless. Either way you will earn 2100XP after they've finished talking and you can loot the skeleton.
+
+Rewards
+2100XP
++1 Compassionate or +1 Heartless.
+
+---------------
+
+Tom, The Wannabe Adventurer
+
+Tom, the Wannabe Adventurer is a quest available in Divinity: Original Sin. It is obtained from Charlene, the maid in Mayor Cecil's house. The quest is intertwined with Arhu's Failed Experiment and The Fabulous Five. It is advisable to progress all three quests to the point where you need to enter the cave.
+
+Walkthrough
+Head North from the gate right next to Legionnaire Headquarters. Continue past the ghosts and turn left at the fork. Turn North at the next fork and cross the bridge. Head North and kill the group with several boars guarding the cave entrance.
+Enter the cave and continue along the path. You will come across some Fabulous Five members that will join you. Continue along the path and face the Arhu SparkMaster 5000.
+There are several corpses in this room. Loot one of them to find Charlene's Letter. Read it to update the quest.
+Return to the Mayor's Office and speak to Charlene.
+Tell her the truth for +1 Blunt and 900XP. She will be unable to accept it and call you a liar.
+Lie to her about Tom's fate for +1 Considerate and 1050 XP.
+
+Rewards
+900 XP if you tell her the truth / 1050 XP if you lie to her.
++1 Blunt or  +1 Considerate.
+
+---------------
+
+Headless Nick
+
+This quest is picked up from a ghost called Lillian who can be found in the Black Cove.
+
+Her father, headless Nick had his head removed by the pirates. She asks you to return it to her father if you find it.
+
+Walkthrough
+You will have to complete Warming The Crowd before you can finish this quest. The alternative is to perform yourself and steal the crowd (Enhanced Edition only). See Warming The Crowd Notes. *
+
+Steal Nick's Head from the stage. (935xp)
+Enter Reginald's house. There's a trapdoor underneath the rug, leading to the cellar.
+You can find the key to his house in one of the boxes surrounding Thelyron's House.
+(Optional) Read Reginald's Diary. (935xp)
+Speak to the head, and learn that he desires to be reunited with his body again. (2100xp)
+Head to the Black Cove's Derelict Harbour.
+Talk to the Headless Zombie with Nick's Head in your inventory.
+If you have killed Pontius, this is where the quest ends.
+*If this was completed without passing the RPS check, this quest can be completed by killing Reginald or by using a smoke grenade to obscure his vision. If the decision is made to kill Reginald, it's best to kill Reginald in an indirect way (teleportation or barrel) to avoid other casualties.
+
+Rewards
+Divinity: Original Sin
+
+935 XP after talking to the head
+2100 XP for completing the quest
++1 Altruistic or Egoistic
+Reward Chest containing Magical and/or Rare loot (if you return the head)
+1290 XP for defeating Lillian and Headless Nick (if you leave him)
+Enhanced Edition
+
+935xp for stealing the head.
+935xp for reading the diary.
+2100xp for learning the head's intentions.
++1 Renegade or Righteous
+Summon Nick Spellbook
+
+---------------
+
+The Fish Thief
+
+The Fish Thief is a quest available in Divinity: Original Sin. The quest is triggered when you enter the Cyseal market from the West.
+
+Walkthrough
+The quest has different outcomes depending on what you choose to say.
+
+Stop the man from stealing the fish. (+1 Righteous, +50 attitude with the fish vendor)
+Convince him to steal the fish. (+1 Renegade, additional choice)
+If he steals the fish, a guard catches him in the act, rushes over and asks the player for their testimony.
+
+Tell the guard the thief paid for the fish. (+1 Considerate)
+Tell the guard that he stole the fish. (+1 Blunt)
+
+Rewards
+180 XP no matter what option you choose
++ 1 Righteous or +1 Renegade depending on whether you prevent or allow the man to steal the fish
++ 1 Considerate or +1 Blunt depending on whether you help the thief or tell the truth to the guard, provided you first convinced him to steal the fish
++ 50 attitude with the fish vendor if you prevent the thief from stealing the fish
+
+---------------
+
+Cecil's Mighty Staff
+
+Cecil's Mighty Staff is a quest given by Mayor Cecil located in Mayor Cecil's Office in Cyseal.
+
+Quick walkthrough
+After you've obtained the quest, teleport to Cyseal Harbour and head to the ship South West of the Ship that was burning in Fire! Fire! Fire!.
+Speak to Conrad on the ship and ask about the staff.
+Speak to the men chatting just off the ship and ask about Dietmar.
+Return to Conrad and tell him one of his men saw Dietmar make off with a package. The quest will continue after you have disabled the Arhu SparkMaster 5000.
+Head West from where you defeated the Arhu SparkMaster 5000 and out the exit. Keep heading West past the Waypoint Portal and you will eventually come across Dietmar and his men.
+If you've progressed A Mysterious Murder to the point where Evelyn disappears, then Dietmar will be hostile and attack you when you approach. If not, then you can speak to and trade with him (he has potions and daggers) but he'll turn hostile as soon as you ask him about the staff. Either way, kill Dietmar and his 6 thugs (4 are invisible).
+Pick up Staff Of Pergamon, return to Mayor Cecil and tell him you found his staff.
+Keep the staff for +1 Materialistic, -1 Reputation and 4500 XP.
+Return the staff for +1 Spiritual, +1 Reputation, 4500 XP and +5 Attitude with Mayor Cecil.
+Lastly, return to Conrad for +50 Attitude with him.
+Note: Step 8 may be bugged in that if you return to Conrad after leveling up and ask about the staff, you will be rewarded another +50 Attitude with him. This happens only once. Needs testing on 1.0.177.
+
+Rewards
+6750 XP for killing Dietmar and his men
+4500XP for either keeping or returning Staff Of Pergamon
++1 Materialistic or +1 Spiritual
++1 or -1 Reputation
++5 Attitude with Mayor Cecil and +50 Attitude with Conrad if you return Staff Of Pergamon.
+
+---------------
+
+The Undead Scourge
+
+This quest is obtained from Aureus at the Cyseal Legionnaire Headquarters when you ask him about "Matters concerning the Legion".
+
+Walkthrough
+Speak to Aureus at Legionnaire HQ. Grab the quest Legionnaires At The Church if you haven't already.
+Head out Cyseal's North gate and speak to the ghosts at the mill. Grab The Legionnaire's Will when you're there.
+Complete A Mysterious Murder to receive the Enlightened Amulet. Or, you can pickpocket Thelyron for one (requires +4 Pickpocketing).
+Go to the church. The church entrance is South past the Cyseal Old Church Waypoint Portal. If you don't have the Waypoint Portal yet, go East from Cyseal's North gate, past the graveyard from The Graveyard Madman, South, then West.
+Try to enter the church and convince the statues to allow you to enter (1080 XP + 2100 Charisma XP). Use the Charm option for a +1 bonus.
+Proceed into the church and kill the cultists (4800 XP). After the battle, trigger the 4 switches hidden behind paintings around the room. The key to the locked room is lying along one of the walls.
+Enter the basement and use the Enlightened Amulet on the pedestal to disable the forcefield.
+Speak to Thelyron and Councillor Jake beyond the forcefield (1080 XP). This is the last time you will be able to interact with Thelyron.
+Continue onward and defeat Braccus Rex (2700 XP). Be sure to loot his chest to trigger another Star Stone. Tips for the fight are provided below.
+Report back to Selenia for your reward.
+
+Chest of the Source King
+The key to the Chest of the Source King can be found during A Forge of Souls towards the end of the game (upon Cassandra's skeletal remains).
+Use a Magical Unlock Scroll instead (they can be crafted or one can be found in Arhu's room at Legionnaire HQ).
+
+Strategy for Braccus Rex
+It is advisable to be at least level 9 for this fight. Finish off every other quest in Cyseal before attempting this or the fight will be extremely tedious.
+The hardest part of this battle is surviving the first Meteor Strike. Fire resistance goes a long way here.
+The Ghoul is the weakest and vulnerable to physical and fire attacks as well as knockdowns and stuns. He will keep spewing pools of poison which can be disastrous with Meteor Strike.
+The Baron of Bones is immune to Knockdowns, Stuns, Bleeding and Charmed. He IS however vulnerable to Fire attacks. He will caste Knockdowns and Crippled so use Helping Hand (Madora) and Self Medicate if you have it.
+The Twins are vulnerable to water attacks. They leave a pool of magma when they die so tread carefully.
+Braccus himself heals with fire damage, but is vulnerable to physical attacks, water damage and can beDOS Status Effect Knocked Down.pngKnocked Down ,DOS Status Effect Stunned.pngStunned and evenDOS Status Effect Charmed.pngCharmed if your Str/Dex score is high enough.
+It's also possible to (while speaking to him), use another companion to stack pots around him. He will then be trapped within the pots until they are destroyed, and you can meanwhile stay out of his attack range and kill the other three.
+
+The Fight
+Don't approach Braccus directly. Instead, head down towards the Ghoul's spawn point. Stay at the edge of the stairs as the Ghoul will spawn in a large pool of poison.
+Use one character as a tank and make him take all damage from Braccus. Put anything with fire resistance on him, make him drink a fire res potion and quickly run him up the stairs to initiate the fight. The Witchcraft spell Absorb The Elements is extremely useful here, as is Fire Shield and Immune to Burning.
+Knockdown Braccus (Madora works well at Level 9) and summon any elementals you can to off tank.
+Focus the rest of your party on the Ghoul. Use fire to explode the pool of poison and rain to put it out if you have melee characters that can deal good damage up close.
+Take out the twins next as their AoE attacks deal a large amount of damage. Use summons to keep him from getting close while you dish out water damage (Jahan works well at level 9).
+Next, take out the Baron of Bones with fire damage if possible. He's melee only so it shouldn't be too difficult if you have at least 2 ranged characters.
+Lastly take out Braccus Rex. Use stuns, knockdowns, freezes - anything to keep him neutralized while you chip away at his health.
+
+Rewards
+4500 XP for defeating Braccus Rex, 3600 XP for Ghoul, 2700 XP for Twins, 1545 XP for Diederik
+13500 XP
+Braccus' Two-Handed Axe drop chance from Braccus Rex
++1 Reputation
+
+---------------
+
+The Skeleton King's Summoner
+
+This quest is acquired when you ask Arhu about Braccus Rex and Baron of Bones. He tasks you with finding out who could have resurrected the Skeleton King. You must complete A Mysterious Murder first.
+
+Walkthrough
+Talk to Thelyron while he's with Councillor Jake at the Old Church during The Undead Scourge (940 XP).
+Defeat Braccus Rex and return to Arhu for your reward.
+NOTE: This quest was removed in the Enhanced Edition of the game
+
+Rewards
+4200 XP
++1 Reputation
+Note: It seems that if you Kill Braccus Rex before starting this quest, any future conversations with Arhu will NOT resolve the quest.
+
+---------------
+
+The Philosopher
+
+The Philosopher is a quest available in Divinity: Original Sin.
+
+Walkthrough
+While in Cyseal Cemetery, dig up the grave to the left of Siva (with the tombstone that reads "Here lies Nemris, Master of Philosophy").
+Converse with the ghost of Nemris and pass his test (600 XP, Reward Chest), the answers to which can optionally be found in the Philosophy of Death book in the library (upstairs, Mayor Cecil's House).
+The answers are:
+2. Of course not.
+2. Not entirely, no.
+1. Your salvation.
+
+Rewards
+600 XP
+Reward Chest with random loot
+
+---------------
+
+The Book Of Death
+
+The Book of Death is a quest available in Divinity: Original Sin.
+
+Walkthrough
+In Cyseal Cemetery, you can dig up the grave of Nemris, to the left of the mourning woman (and not the grave she is standing on).
+The Philosopher's spirit will appear. You can find Philosophy of Death in the library upstairs in Mayor Cecil's House to prepare for his test. Or you can just read on for the answers.
+Return to the spirit and take his test. The right answers are 2-2-1.
+
+Result
+600 XP
+Chest with loot
+Steam achievement
+
+---------------
+
+Another Crazed Mage
+
+Another Crazed Mage is a quest available in Divinity: Original Sin.
+
+This quest is obtained in The Black Cove, when entering one of two rooms immediately after defeating the Source Abomination. A dialogue will automatically be initiated with the ghost of a mage called Billeh Gahr. The entire room is rigged to explode if you take a single step.
+
+Walkthrough
+After ending the dialogue check closely which character from your party is standing on the trap that triggered the dialogue (green circle in the image below). Unlink this member from your party so that the others can search freely for the disarming switch. 
+In the left corner you will notice a chest, a crate and a barrel. Move the crate (red arrow in the image below) out of the way and you will find a small switch. Press the switch to disarm the trap and complete the quest.
+
+Reward
+1680 XP
+630 Exploration XP for entering the room
+
+---------------
+
+The Lost Archaeologist
+
+Wulfram, the Archaeologist has gotten himself lost on the outskirts of Cyseal. You can also get this quest from Lieutenant Selenia near the Legion Headquarters.
+
+Walkthrough 
+Exit Cyseal from the gate North of the Cyseal North Waypoint portal. Follow the road West until you arrive at a fork next to some bales of hay. You'll find Wulfram whimpering in the building just to the West of the bales.
+Agree to escort him for +1 Compassionate
+Refuse to escort him for +1 Heartless and -1 Reputation (and no XP).
+Assuming you've agreed to escort him, stay close to him as he likes to run off on his own and to his death. If he dies, you get 335 XP and -1 Reputation from Lt. Selenia.
+Kill the mobs that spawn as you escort him to the North West town archway.
+(Optional) Meet him at the Tavern where he thanks you again.
+Report back to Lieutenant Selena near the Legion Headquarters (Enhanced Edition only) for +1 Reputation
+
+Reward
+1715 XP summary for an escort
++1 Reputation
+3000 XP
+or should he run off and die:
+
+335 XP
+-1 Reputation
+
+---------------
+
+The Strongman
+
+The ghost of Snorri believes that he is the strongest man and that nobody can challenge him.
+
+Walktrough
+You will find Snorri In the abandoned house just to the West of the Cyseal West Waypoint Portal. Move a floormat within to reveal and enter a hatch (the key is nearby). Move the tomb's lid for Snorri to appear.
+Speak to Snorri and challenge him. He will summon a large ball that you need to destroy within 35 seconds to complete the quest. Snorri leaves behind a reward chest before he goes.
+NOTE: Snorri is one of a few vendors that sell legendary items. Completing this quest will make him disappear forever. It is advised that you keep him around without completing the quest and instead revisit him at every levelup to farm legendary equipment.
+
+Reward
+600 XP
+Treasure chest
+
+---------------
+
+Crabs Versus Skeletons
+
+Crabs Versus Skeletons is a quest in Divinity: Original Sin. In the Enchanced Edition it has been renamed Into the Dark. This quest is essentially a run through the Black Cove. The quest is obtained when you come across a dying orc just down the start of the Black Cove.
+
+Walkthrough
+(Getting to the Black Cove) Head through the Western gate directly West of the Cyseal Harbour Waypoint Portal. Head North past the dead orcs, then West past the crying orc from The Grieving Orc quest and North past the minefield of traps.
+There is an orc miniboss called Grullbarg the Fearsome guarding the entrance to the Black Cove. Kill him and enter the Cove (6750 Battle XP).
+Head East into the dungeon past the dying orc. There is a fight between Orcs and Skeletons here. Join the fight if you want the extra XP (10695 XP) or you can kill the survivors. You could also completely ignore them for now as we will be back here later.
+Continue East, disabling the Poison Cloud traps and take out the Source Abomination mini boss. Since you're here, enter the room East of the Abomination to obtain and quickly solve the Another Crazed Mage quest.
+In the room North of the Abomination, pull the lever and then the switch behind the painting. This will reveal a trapdoor that we'll come back to after exploring and grabbing the quest Headless Nick at the end of the path to the North.
+Enter the trapdoor and head East, navigating the crabs and traps as you go along. The key to the locked, unbreakable chest before the first bridge here can be found behind some rocks by a shipwreck to the Northwest. Continue East until you get to the room full of switches.
+(Optional) For some extra loot, trigger the 'Ominous Switch' along the Western wall. You may need a few points in perception to see the switch. A chest is hidden in the foliage. Use your teleporter pyramid to regroup.
+Back to the room of switches, go south east down some stairs and you will find a hidden 'Blood-Stained Switch' West of the stairs behind some bushes. Press the switch to open up the locked doorway (840 XP).
+Head through the newly opened door and face and kill Pontius for 5550 XP and +1 Reputation. This completes the quest.
+Grab his key and open his chest on the ship for a Bloodstone.
+Use the stone if you want to unlock another room in your Homestead or save it as you'll need one for the upcoming An-A-Mount Of Healing Magic quest.
+You will also want to head to the scene of the fight between the Orcs and Skeletons to open a locked door with your newly acquired key. This route contains a miniboss that you need to get by to progress Kitty Love and Lost Love at the Lighthouse.
+
+Rewards
+1680 XP
++1 Reputation
+
+---------------
+
+The Quest For Braccus Rex
+
+The Quest For Braccus Rex is a quest in Divinity: Original Sin. This quest is acquired when you talk to Evelyn in her laboratory at the end of A Mysterious Murder and is completed when you speak to Arhu later.
+
+---------------
+
+The Teleporter Pyramids
+
+Quest Acquisition
+Enhanced Edition
+
+You receive this quest after you return to Cyseal from your first trip to The End of Time. Arhu will speak with you, and hand you the Red Teleporter Pyramid.
+
+Standard Edition
+
+You receive this quest from Zixzax in The End of Time, after he's given you the Red Teleporter Pyramid.
+
+Walkthrough
+Once you acquire the Red Teleporter Pyramid, simply use it within Cyseal to teleport to the Blue pyramid. (90xp)
+You' will materialize in Mayor Cecil's bathroom, next to his bathing wife, Cecilia. She will initiate an RPS check with you.
+You get a -1 deficit regardless of your charisma choice.
+Winning the RPS check gives you 130xp. (130xp)
+Win or lose the minigame against her, but be sure to pick up the Blue Teleporter Pyramid before you leave (drag to your inventory).
+BUG NOTE: There is a bug where if you investigated Jake's crime scene without visiting Cecilia, she might refuse to talk to you. In this case, you'll find yourself trapped in the room with an indestructible door, and where magic unlock seems to fail too. The workaround is that before you teleport to the bathroom, leave one of your companions outside, teleport in, pick up the blue pyramid, hand it over to your companion (right through the wall) and then teleport to him.
+BUG NOTE: If you don't pick up the Blue Pyramid Teleporter fast enough the quest may not be marked as completed.
+
+Rewards
+2 x Teleporter Pyramid
+90 Exploration XP
+130 Charisma XP if you win the minigame
+
+---------------
+
+The Wishing Brother
+
+The Wishing Brother is a quest in Divinity: Original Sin. This quest is obtained when you speak to Walter McWishing Well, a talking well that can be found Southwest of the Cyseal Old Church, next to the ruined entrance to the church.
+
+Walkthrough
+Talk to Walter and find out what happened to his brother, William McWishing Well. You can travel to William now for some XP but there is little else you can do until you complete Eternal Winter.
+After deafeating Boreas and obtaining the Well Teleportation Scroll from his treasure room, go to William who is located directly northeast of the Hiberheim Forest Waypoint Portal. There's a tough boss in this area so it might be easier to have Walter teleport you directly to William as in step 1.
+Stand next to William and read the Well Teleportation Scroll. This will teleport William back to Walter.
+Return to Walter's location in Cyseal to complete the quest.
+Ask Walter for a wish and choose the dialogue option to give him 1500 gold (The loot you get is worth a lot more).
+(Note: You can resolve the quest and save the wish for later, as you get loot according to your level)
+
+(Optional) Once you explore Northern Hiberheim, where the volcanoes are constantly lobbing fireballs and defeat The Guardian, a new conversation option opens with William. If you can convince him to grant you a wish, he can either end the snowstorm in Hiberheim or put an end to the fireballs.
+
+---------------
+
+A Voice in the Wilderness
+
+This quest only becomes available and updates while Wolgraff is in the party.
+
+Walkthrough
+Speak to the voiceless rabbit in Cyseal, near the bridge to Luculla Forest (right next to the Silverglen Road portal). As the rabbit is mute, its directions are vague: it points towards the north-east. Wolgraff will appear to be extremely interested in it. Speak to him to begin the quest.
+Talk to the "Sad deer" in Luculla Forest. You'll find him walking around to the South of the spot where Roy's Menagerie takes place, South East of the Goblin Village. The Deer will silently point to the east.
+Talk to the dog in Hunter's Edge, by the bridge and central fountain.
+Visit the alchemist's lab in The Temple of the Dead (see A Forge of Souls), and pick up the Bottled Voice.
+Talk to the Boar walking close to the Phantom Forest North Waypoint Portal. It will indicate that the culprit is nearby.
+Follow the path to the North to find Imal the Squealer, just past the Kickstarter Tree (from The Legend of the Weresheep). Kill him (19000 XP), loot the Voxwood and read the recipe book.
+Combine the Bottled Voice and Voxwood for the Vocalisation Potion and speak to Wolgraff to give it to him.
+
+Rewards
+Wolgraff's voice
+That Voice Again achievement (for Enhanced Edition game on Steam)
+
+---------------
+
+The Legend of the Weresheep
+
+The Legend of the Weresheep is a quest in Divinity: Original Sin. The quest is initiated when you find any one of the books indicating the existence of the Weresheep. This quest can only be resolved once the Phantom Forest area is accessible towards the end of the game.
+
+Walkthrough
+Enter the Cyseal Old Church graveyard from the South West and follow the path until the first set of stairs. Immediately to the right are two tombs, the first belonging to Madame M. Montgomery. You will need high perception to spot the dig site between the tombs and get the book The Legend of the Weresheep.
+Complete Infiltrating The Immaculates until you can access eastern Luculla. After you enter the waypoint portal in Loic's basement (the room with the 2 bloodstones), head for and enter the cave to the south at the bottom of the hill.
+Climb the stairs to enter the main level of The Cave of Portals. Keep left while following the path and enter the first portal you see to your left. You will immediately find a dig spot when you exit the portal. Speak to the weresheep's ghost and exhaust the dialogue options.
+Important: Once you have completed the riddle of the portals (that takes you to the library), you will not be able to reach the dig spot anymore!!
+Find the parchment, The Last Weresheep in King Boreas' treasure room in Hiberheim. during the course of Eternal Winter.
+Progress through Follow The Wizard until you can get through the poison barrier that bars the way to the Phantom Forest. You want to bear North East and find the Phantom Forest North Waypoint Portal, which is just north of the giant titan head. Head north from the Portal and you will arrive at a large, runed tree (the kickstarter tree). Place a stardust herb on the ground in front of the tree and wait a moment for the weresheep to appear.
+There are several ways of obtaining the weresheep's wool:
+Trade with the Weresheep and buy the wool for 1 coin. (In the Enhanced Edition you cannot trade with it even with the Pet Pal talent, but you can pickpocket it)
+Speak to the Weresheep and win the RPS game and the Weresheep Wool.
+Kill the Weresheep for the wool and 12600 XP (31500 XP in EE).
+After obtaining the wool, go to the Elemental Forge in Northern Hiberheim from Find The Witch!
+Use the wool on the forge to obtain the Weresheep armor set and complete the quest (no crafting skill required).
+
+Rewards
+Weresheep Armour, Boots, Bracers, and Helmet
+4590 Exploration XP
+Optional fight : 12600 XP (EE = 31500 XP)
+
+---------------
+
+The Preacher Of Earthly Delights
+
+You receive this quest after speaking to Ebenezer, the ghost, in the Eastern corner of the Cyseal Old Church. You will require the Pet Pal talent to complete this quest.
+
+Walkthrough
+Ebenezer tells you about his ship that got sunk, and about a cat named Oscar who was on board. He wonders about the Oscar's fate.
+Return to Cyseal and speak to Unsinkable Sam at the King Crab Tavern (1080 XP). Sam will tell you what kind of person Ebenezer is.
+Return to Ebenezer and talk to him. You have 2 choices:
+You can leave him alone for +1 Materialistic and a chest (with horrible loot).
+Force him to the Hall of Echos for +1 Spiritual. Ebenezer and his buddies will turn hostile, giving you plenty more XP for killing them.
+
+Rewards
+2160 XP and Treasure Chest (if Ebenezer lives)
+7725 XP (if Ebenezer and his squad dies)
+
+---------------
+
+The Wild Woman and the Renegade
+
+The Wild Woman and the Renegade is a quest in Divinity: Original Sin. This quest is part of The Bear and the Burglar DLC, which is required to do this quest in the Classic Edition. This quest is obtained when you first meet Bairdotr in her cage outside the Legionnaire Headquarters in Cyseal. You must help Bairdotr find out who destroyed her Homeforest and why her friend and mentor, Jareth, disappeared.
+
+Walkthrough
+Speak to Bairdotr outside the Legionnaire Headquarters and let her join your party. She tells you that she must find a woman named Attenberah.
+When you first enter Luculla Forest, you will meet a fleeing Immaculate. He tells you about a village called Sacred Stone, run by a corrupt Immaculate called Attenberah.
+Progress through Infiltrating The Immaculates quest until you find your way to Eastern Luculla. Go East from Loic's Basement Portal to find your way to Sacred Stone.
+Go through the waterfall over the bloody river at the back of the village. Enter the cave there.
+At the end of the cave you will find Jareth. You will also learn that he was responsible for infecting the Homeforest withDOS Status Effect Rot.pngRot and leaving Bairdotr to die.
+Depending on how you've treated Bairdotr, she joins Jareth and fights against your party or joins you in fighting Jareth. To avoid losing Bairdotr, you can attack Jareth without talking to him.
+Jareth summons 5 gore creatures who are immune to Earth damage. Fight them and kill everyone.
+
+---------------
+
+Find The Witch!
+
+Find The Witch! is a quest in Divinity: Original Sin. This quest is obtained when you speak to Councillor Jake at the end of, A Mysterious Murder.
+
+Walkthrough
+Talk to Councillor Jake. He will tell you that it was the White Witch who killed him.
+Go to Luculla Forest entrance by heading northeast from Blossius' mill from The Legionnaire's Will. Proceed to Luculla Forest via the wooden bridge.
+Head northwest from the Cyseal Road Waypoint you've just unlocked. You will come across a fleeing Immaculate named Samid who will start a dialogue with you. Exhaust all options to receive Infiltrating The Immaculates and a quest marker revealing the location of the Witch's cabin. Go there now.
+To deactivate the barrier around the cabin, speak to the talking mushroom Icari next to the cabin to get the quest Fun With Fungi. Finish this quest and remove the barrier using whichever method you chose.
+Go inside and use the mirror to teleport to a cave. Proceed until you meet Vaelanna. Kill her and loot Vaelanna's Orders. Read the Orders or the Cultist Spell in front of the magical lake to turn the lake into a portal to the faery world of Hiberheim.
+Enter the portal. You'll find Enchanted Sentinels which will crumble as you walk past them. Follow them until you see a stone spike gate blocking the path. Step on a pressure plate on the rocky part of the floor in front of the gate to open it. Send another character to the other side and use the Teleporter Pyramids to regroup.
+Directly south of the gate there is a lever you can use to permanently open it. You will be attacked by two Mecha-Rodents (Alpha) and four Mecha-Rodents (Beta).
+Follow the path northwest until you reach a fork in the path. Take the path to the northwest, but stay on the least elevated part of that path. Here you will find a hidden mound that contains a key. Continue northwest and unlock the lever to open another gate. You will be attacked by two Mecha-Roosters. After you defeat them, follow the path until you meet the Witch's apprentice, Almina. She gives you the quest, Eternal Winter and then dies.
+Now, backtrack to the gate from step 5. Take the path south until you reach a Watchful Sentinel and continuously falling ice shards that prevent you from continuing. There is a pressure plate directly south of the Watchful Sentinel which stops the ice shards. Use the same technique from step 5 to cross it.
+The path instantly forks to the north and the east. Be careful of mines. To the north there is an optional loot chest. You will be ambushed by seven Mecha-Rodents (Beta) when you open the chest.
+Continue down the eastern path and go southeast up a hill. Remove the barricade and then use the same technique from Step 5 with the pressure plate atop the hill to pass the gate. There is a lever directly north of the gate that will permanently open it.
+Continue east along that path and you will engage a pack of wolves. Continue east to find the Hiberheim Forest Waypoint Portal. Directly to the south of the portal, destroy the ice encasing Arroka to start the quest The Captives in the Crystals.
+From the portal, follow the path north and continue north on the path between the large head shaped boulder and the immaculate camp. When the path forks, take the northwestern path until you come across another large, skull shaped boulder. Approach it and dig in the snow mound directly in front of it to reveal a hidden hatch. Use the hidden hatch to continue to the next area.
+Continue northeast down the cave, but be wary of the mines in the fog of war. They will become invisible as you approach them, but will still be where you last saw them. Your companions can step on the invisible traps so it is best to send one character in alone and use the Teleporter Pyramids to regroup on the other side. Proceed northeast down either path until you find a ladder. Use the ladder to climb up to a prison cell.
+Dig the mound in the east corner of the cell to enter the next cell, which is not locked. Leave the cell and destroy the Iron Maiden to the north to get a Blood Stone.
+Now continue southeast until you reach a room with four Watchful Sentinels. Use invisibility or sneaking to get past them. Use the Hiberheim Prison Waypoint Shrine to regroup. Proceed until you find the White Witch imprisoned in a giant ice crystal.
+Teleport to the Hiberheim Castle Waypoint to leave the prison (or if you don't have it, head further north from the skull shaped boulder where you entered the prison) and then go east where you'll find several elementals locked in battle. Defeat them and continue to the northeastern-most part of the map until you run into the cultists that guard the doors to the Elemental Forge. Kill the cultists and go through the doors.
+Continue northeast down the stairs. Talk to Jijix and exhaust all dialogue options. Continue northeast and you will meet the Conduit making a Blood Stone. After exhausting all dialogue options, she will summon four demons and then disappear. Kill the demons and one of them will drop a parchment called Orders.
+Use the Hiberheim Castle Waypoint and go northwest into the castle of Ice King Boreas. Walking into the vision of the Watchful Sentinels on the bridge will result in you getting attacked by Ice Elementals but they shouldn't pose too much of the problem. Click on the barrier blocking the entrance and use the Orders you picked up in the forge to disable it. Go inside the castle and kill Boreas. Pick up the Elemental Staff he drops.
+Go back to the Elemental Forge and drag the Elemental Staff from your inventory onto the forge to free the other Elemental Kings. Sua, the Fire King, will give you a Fire Rune which you can use to summon him.
+Go back to the ice crystal where the White Witch is imprisoned. Use the Fire Rune to summon the Fire King. He will melt the ice crystal and free the White Witch, completing the quest.
+
+Rewards
+Impaler chance to drop from Vaelanna
+
+---------------
+
+Infiltrating The Immaculates
+
+This quest is obtained when you first enter the Luculla Forest area. You will run into an Immaculate refugee, Samid when heading East from the start of this area, who will give you this quest. He will tell you that the high Immaculates are corrupted and they use forbidden Source magic. The Protagonists should find out what is happening.
+
+Walkthrough
+Meet Samid at the entrance of Luculla Forest and hear about the Immaculates and Source magic. (In DOS: EE Samid will find you when heading north from Silverglen west gate).
+Go to the chapel in Silverglen (right next to Arhu in cat form) and speak to Loic to receive The Initiation, which forms a part of this quest.
+Complete the Initiation quest before proceeding.
+Make sure you took the key to the chapel basement after you killed Loic.
+Go back to the chapel and enter the basement. You'll find a portal (as well as 2 Blood Stones on the shelves). Use this portal to teleport to the eastern part of Luculla Forest.
+Follow the winding path and then head North to a stone bridge littered with mines. This area can be navigated safely by walking on the trail of blood. Follow the trail of blood down the path and head northeast. (Enhanced Edition: mines are replaced with noxious bulbs. If you have a character with the Winged Feet skill, separate him from the group, activate Winged Feet and run him to the middle safe area. There is a switch that deactivates the bulb traps. Do similar for the remaining stretch of bridge). Kill the Orcs at the end of the path to proceed.
+Head down the stairs to the East and talk to the Immaculate guards. You can show them the Enlightened Amulet you looted from Loic, Charm them through the minigame or kill them. Or all of the above. Enter the temple when done.
+Light the four Coal Baskets to open a path deeper into the temple. Follow the path northeast and you will eventually run into Mangoth performing a ritual. Mangoth will flee so deal with the elementals and archers to proceed. (19510 XP) (Note 1: Bug: If you sneak close to the star-stone to activate it without alerting Mangoth, then wait for the ritual to complete, you will receive both the inert stone and an extra blood-stone, which will grant you extra XP and unlock another homestead room). (Note 2: The earth elemental here is guaranteed to drop a single legendary tenebrium weapon).
+Activate the lever directly to the south of the altar to open a pathway under the altar. Enter the basement.
+There are four switches in this area that need to be pressed in a particular order to gain access to the central room. The order is described in The Necronomicon Of Cooking (Necronomicon of Openings in DOS:EE), which can be found to the Northern corner of this room. Use this in combination with the large compass at the base of the stairs.
+Press the first switch (x:475, y: 397), which is against the bottom of the center-most lit Coal Basket at the entrance of this room (next to the large compass).
+Press the second switch (x:481, y:418), which is along the Southeast wall of the central room, between a bookcase and the brick-covered door.
+Press the third switch, which is next to a desk in the Northwest corner of the room.
+Press the fourth switch, which is directly east of the third switch in the Northeast corner of the room.
+You will be ambushed by Mangoth and several elementals when you enter the central room. Take them out to proceed. (34125 XP)
+Enter the central room and loot the Vial Of Leandra's Blood and Leandra's Diary to update a couple of other quests. (3940 Exploration XP)
+Speak to Icara at the Homestead and create Death Knight Bane Skillbook by combining Vial Of Leandra's Blood and Leandra's Spell. Leandra's Spell is obtained during Investigating The Mines.
+Speak to Icara again to complete the quest.
+
+Rewards
+1 Star Stone from The Initiation and 2 Blood Stones
+Death Knight Bane Skillbook
+Snakebite drop chance when you kill Mangoth
+
+---------------
+
+Investigating the Mines
+
+“
+Icara has sent us to investigate the Luculla mines for evidence of her sister's doings.
+„
+
+Investigating the Mines is a quest in Divinity: Original Sin and Divinity: Original Sin - Enhanced Edition. The quest is obtained by speaking to Icara at the Homestead after freeing her in Eternal Winter. It is important to explore and loot everything you can from the mines as it will become inaccessible at the end of this quest. The Death Knights encountered within the mines are all invulnerable and you will have to sneak or use invisibility potions to get past them.
+
+As all invulnerable Death Knights in the game can be avoided, completing this quest is optional.
+
+Walkthrough
+Head out of the Eastern exit in Silverglen (by Lawrence's office) and keep to the East. You will eventually come across a goblin guarding a bridge, beyond which is the entrance to the Troll King's Cave. It is a linear path from here, so continue past the cave entrance and kill all the goblins you encounter to reach the mines.
+
+Death Knights of the mine
+
+You will hear a voice calling out to you when you enter the mines. Move some boxes to the north to reveal Mikas and speak to him to trigger Hide-And-Mikas and Rogue Dread Lords. Resolve Hide-And-Mikas through conversation to continue.
+Walk northwest past some skeleton miners to trigger Miner Control. This quest will need to be resolved to progress further. Along the way is a Tenebrium vein that can be used for The Troll's Bounty. With high enough perception you may locate a dig spot northwest of the idol room.
+Speak to Dreksis to update Goblin Trouble.
+Enter the guard room to initiate A Long Fuse.
+With careful timing or through the usage of Invisibility spells or potions walk past the patrolling Death Knight. Hug the west wall and you will come across a path that ends in a pile of Immaculate bodies for some loot and ore (2730 Exploration XP). Teleport down to the crates for more loot.
+Note: In order to complete Miner Control, head northwest, past some more skeleton miners and a pile of destructible rocks. If you finish this quest before Miner Control, the latter will become uncompletable.
+Continue past another Death Knight with the same avoidance methods to the southeast past the bridge then head north to trigger a Waypoint Portal (3150 Exploration XP). Further North is another Tenebrium vein.
+Gather your party members if you left any behind and send them to the Waypoint Portal at the entrance of the mine. At this point consider returning to Silverglen to turn in The Troll's Bounty for DOS Status Effect Rot.pngRot Immunity. Rift travel doesn't work in the mines so it might be a good idea to unload all your loot. When ready, teleport to the Luculla Mines - Chasm Waypoint Portal to reunite your party.
+Using the same avoidance methods move southwest past the trap field all the way to the barricade. You can avoid the traps by walking on the tracks if your perception is not high enough.
+Walk past the barricade and win the Charisma game (5460 Charisma XP). Alternatively, you can kill the Immaculates for 22100 XP or even do both.
+Head south and then east, using Rain and AoE spells to deal with the fire and traps. Break the wall and sneak your way directly east to a Temple Door (2730 Exploration XP).
+Interact with the door and speak the password you received from the Miner Control quest, Sadakandras, to open it (2730 XP).
+Note: You can use a Lockpick to open the door. However, if you haven't completed Miner Control, now is your last chance to turn back.
+After you have looted everything, head up the stairs to watch a cutscene with Leandra and resolve the Rogue Dread Lords quest.
+Note: You can teleport past the stairs and thus delay the cutscene for until you've had time to loot everything and clear a path.
+The Death Knights are invulnerable but extremely slow. Even if you didn't teleport past the stairs, you should still have plenty of time to loot everything even during battle mode. Head for and use the mirror to the Northeast to teleport to the Library and loot everything there. The Death Knights will not follow.
+Note: Only one party member needs to reach the mirror; once any character interacts with the mirror, the whole party is teleported with them. A character with the Battering Ram skill can quickly get through the rubble blocking the way through the archway.
+Use the next mirror to enter the High Priest's Office. Loot everything then head east through the forcefield (2730 Exploration XP). Loot everything here including Leandra's Spell to update the quest.
+Return to the mirror and use it to teleport to the crypt. Do not dig any of the dig spots yet. On the railing across there is a switch which deactivates the lava traps on the three dig spots, which hold skill books. The dig spot to the south of the mirror contains a Magic Unlock Scroll.
+Use the mirror to teleport to the Entrance Hall.
+You will see a chest when you head south but you need to be quick to open it or pick it up before it gets destroyed.
+Continue south along the linear path until you reach the final mirror. Teleport to 'The Sun Outside' to leave the dungeon and resolve this quest (9100 XP).
+
+Rewards
+8190 Exploration XP
+5460 Charisma XP
+22100 Combat XP (optional)
+11830 Quest XP
+Leandra's Spell
+
+---------------
+
+Closing The Rift
+
+You receive this quest either when you first enter the Phantom Forest or when you enter the northeast corner of Luculla Forest (there is a sort of gate with two torches on either side, northeast of The Spider Worshipers). ZixZax appears and urgently tells you that the End of Time is being attacked by Void Demons. He says that their presence is not in the normal continuum of time, and that you must stop them. You must clear this quest in order to continue discovering the rooms in Homestead. Otherwise, no matter how many Star stones you find, no rooms will be opened. If you enter the Homestead while this quest is active, you will find it being bombarded by fireballs.
+
+Walkthrough
+You will need a Tenebrium weapon to complete this quest. One can be purchased in Sacred Stone (the Immaculate Village in Eastern Luculla), or crafted by applying a Tenebrium Bar to any (non-staff) weapon (requires +3 Tenebrium skill). You should also have received one from the Earth Elemental at the sacrificial altar during Infiltrating The Immaculates.
+Go to Silverglen Waypoint Portal and move towards the lava rich area Northeast of the sandstorm area, directly north of the Bewildered camper's campsite (which is East from the Immaculate Trial Dungeon entrance). Enter the area (3150 Exploration XP) and ZixZax will appear.
+There are 3 paths here that all lead to the same destination.
+The left path consists of Immaculates. You can play a Charisma game against them for safe passage for part of the way (13600 Charisma XP) and/or kill them all (~96000 XP). Note that the void rams in this path cannot be killed by normal means, but will disengage if their shepherd is killed.
+The right path has no enemies but you will need to constantly cast Tornado to clear the path of lava and teleport across the chasm. There's no XP to be had here, and the only loot is a single moonstone at the start of the path, and a single loot chest at the top of the stairs at the other end of the chasm. You'll only need 8 perception to spot it.
+The middle path is filled with invulnerable Void Demons that can only be sneaked past and also provides no XP.
+Regardless of the path you choose, they all converge at a large Blood Stone (pictured) at the end. Use your Tenebrium weapon to destroy the Blood Stone and it will instantly kill all of the Void Demons, secure the Homestead and resolve the quest (7200 XP).
+Note: You can engage the demons in the middle path and without leaving combat, break the Bloodstone giving you all their kill XP (6000 XP per demon, 3600 XP per Void Ram and 12000 XP for the boss). You can kill all the immaculates before doing this. There are 4 Void Supplicants, 2 Void Torturers, 2 Void Crucifiers, 6 Void Rams and The Boss Ulthrax'Ulkar.
+
+Rewards
+3150 Exploration XP
+7200 Quest XP
+13700 Charisma XP (optional)
+~96000 Combat XP (optional)
+81600 XP Combat XP (optional) if you engage demons.
+Total of ~201650 XP possible for this quest.
+
+---------------
+
+Find The Witch!
+
+Find The Witch! is a quest in Divinity: Original Sin. This quest is obtained when you speak to Councillor Jake at the end of, A Mysterious Murder.
+
+Walkthrough
+Talk to Councillor Jake. He will tell you that it was the White Witch who killed him.
+Go to Luculla Forest entrance by heading northeast from Blossius' mill from The Legionnaire's Will. Proceed to Luculla Forest via the wooden bridge.
+Head northwest from the Cyseal Road Waypoint you've just unlocked. You will come across a fleeing Immaculate named Samid who will start a dialogue with you. Exhaust all options to receive Infiltrating The Immaculates and a quest marker revealing the location of the Witch's cabin. Go there now.
+To deactivate the barrier around the cabin, speak to the talking mushroom Icari next to the cabin to get the quest Fun With Fungi. Finish this quest and remove the barrier using whichever method you chose.
+Go inside and use the mirror to teleport to a cave. Proceed until you meet Vaelanna. Kill her and loot Vaelanna's Orders. Read the Orders or the Cultist Spell in front of the magical lake to turn the lake into a portal to the faery world of Hiberheim.
+Enter the portal. You'll find Enchanted Sentinels which will crumble as you walk past them. Follow them until you see a stone spike gate blocking the path. Step on a pressure plate on the rocky part of the floor in front of the gate to open it. Send another character to the other side and use the Teleporter Pyramids to regroup.
+Directly south of the gate there is a lever you can use to permanently open it. You will be attacked by two Mecha-Rodents (Alpha) and four Mecha-Rodents (Beta).
+Follow the path northwest until you reach a fork in the path. Take the path to the northwest, but stay on the least elevated part of that path. Here you will find a hidden mound that contains a key. Continue northwest and unlock the lever to open another gate. You will be attacked by two Mecha-Roosters. After you defeat them, follow the path until you meet the Witch's apprentice, Almina. She gives you the quest, Eternal Winter and then dies.
+Now, backtrack to the gate from step 5. Take the path south until you reach a Watchful Sentinel and continuously falling ice shards that prevent you from continuing. There is a pressure plate directly south of the Watchful Sentinel which stops the ice shards. Use the same technique from step 5 to cross it.
+Ice King Boreas
+
+The path instantly forks to the north and the east. Be careful of mines. To the north there is an optional loot chest. You will be ambushed by seven Mecha-Rodents (Beta) when you open the chest.
+Continue down the eastern path and go southeast up a hill. Remove the barricade and then use the same technique from Step 5 with the pressure plate atop the hill to pass the gate. There is a lever directly north of the gate that will permanently open it.
+Continue east along that path and you will engage a pack of wolves. Continue east to find the Hiberheim Forest Waypoint Portal. Directly to the south of the portal, destroy the ice encasing Arroka to start the quest The Captives in the Crystals.
+From the portal, follow the path north and continue north on the path between the large head shaped boulder and the immaculate camp. When the path forks, take the northwestern path until you come across another large, skull shaped boulder. Approach it and dig in the snow mound directly in front of it to reveal a hidden hatch. Use the hidden hatch to continue to the next area.
+Continue northeast down the cave, but be wary of the mines in the fog of war. They will become invisible as you approach them, but will still be where you last saw them. Your companions can step on the invisible traps so it is best to send one character in alone and use the Teleporter Pyramids to regroup on the other side. Proceed northeast down either path until you find a ladder. Use the ladder to climb up to a prison cell.
+Dig the mound in the east corner of the cell to enter the next cell, which is not locked. Leave the cell and destroy the Iron Maiden to the north to get a Blood Stone.
+Now continue southeast until you reach a room with four Watchful Sentinels. Use invisibility or sneaking to get past them. Use the Hiberheim Prison Waypoint Shrine to regroup. Proceed until you find the White Witch imprisoned in a giant ice crystal.
+Teleport to the Hiberheim Castle Waypoint to leave the prison (or if you don't have it, head further north from the skull shaped boulder where you entered the prison) and then go east where you'll find several elementals locked in battle. Defeat them and continue to the northeastern-most part of the map until you run into the cultists that guard the doors to the Elemental Forge. Kill the cultists and go through the doors.
+Continue northeast down the stairs. Talk to Jijix and exhaust all dialogue options. Continue northeast and you will meet the Conduit making a Blood Stone. After exhausting all dialogue options, she will summon four demons and then disappear. Kill the demons and one of them will drop a parchment called Orders.
+Use the Hiberheim Castle Waypoint and go northwest into the castle of Ice King Boreas. Walking into the vision of the Watchful Sentinels on the bridge will result in you getting attacked by Ice Elementals but they shouldn't pose too much of the problem. Click on the barrier blocking the entrance and use the Orders you picked up in the forge to disable it. Go inside the castle and kill Boreas. Pick up the Elemental Staff he drops.
+Go back to the Elemental Forge and drag the Elemental Staff from your inventory onto the forge to free the other Elemental Kings. Sua, the Fire King, will give you a Fire Rune which you can use to summon him.
+Go back to the ice crystal where the White Witch is imprisoned. Use the Fire Rune to summon the Fire King. He will melt the ice crystal and free the White Witch, completing the quest.
+
+Rewards
+Impaler chance to drop from Vaelanna
+
+---------------
+
+A Dark Matter (Divinity: Original Sin)
+
+A Dark Matter is a quest in Divinity: Original Sin
+
+This quest is obtained when you speak to either the Immacualte at Hilda's Camp or Fabricio in his camp.
+
+---------------
+
+Eternal Winter
+
+Eternal Winter is a quest in Divinity: Original Sin. This quest is acquired when you speak to Almina at the end of The Lady In The Lake.
+
+Walkthrough
+Enter the Hiberheim Forest area.
+(Optional) Earn the trust of the Three Immaculate Camps and speak to them to update the quest.
+(Optional) Free the first 2 captives from the Captives In The Crystals, side with them and win the Charisma game to update the quest. Note that you will get better loot if you kill the captives instead.
+Head to the location of the Hidden Hatch. It is by a large skull shaped rock, North of Fabrizio's camp. You will need perception to see it.
+While unrelated to this quest, destroy the Iron Maiden in the prison for a Blood Stone.
+Get to the end of the linear dungeon and interact with the Ice prison where the White Witch is imprisoned.
+Confront the Conduit at the North East corner of Hiberheim Forest. She is found in a building far North of the Hiberheim North Waypoint Portal. Pick up the spell dropped by her goons.
+Interact with the barrier at Boreas' Castle and use the spell to disable the force field.
+Kill Boreas and pick up the Elemental Staff.
+Take the staff to the Elemental Forge where you met the Conduit. Drag the Elemental Staff to the forge to free the Elemental Kings (4680 XP).
+Return to the Hiberheim Prison Waypoint Portal and use the Fire Rune while standing next to the Ice prison. Ask the fire king to undo the ice prison to complete the quest and free the White Witch.
+
+Rewards
+7020 XP
+2925 XP for each of the guardians outside the castle entrance.
+2340 XP for disabling the castle force field.
+
+---------------
+
+Inside the Source Temple
+
+Inside the Source Temple is a quest in Divinity: Original Sin. This quest is automatically acquired when you enter the Source Temple during Follow the Wizard. The location of the entrance is to the North of the Phantom Forest Swamp Waypoint Portal. The path to the entrance is barred by boss and several minibosses.
+
+Walkthrough
+Find your way to the entrance of the Source Temple which is located to the North of the Phantom Forest Swamp Waypoint Portal. The way is barred by powerful enemies so be prepared. There are many Orcs, Goblins and Demons led by miniboss captains. There is also a unique Death Knight, Death Lord, who creates a lava surface and teleports you onto it to instantly kill you. Enter the Source Temple when once you get past him.
+You will unlock the Source Temple Entrance Waypoint Portal as soon as you enter. Bear east, taking either path. You will arrive in a room with a broken mirror. Interacting with it will trigger a dialog for +1 Bold or +1 Cautious. Check along the northwest wall of the same room for a buried star stone (you will need sufficient perception). Backtrack out of the room and search the rocks along the north wall for a tiny switch. Flip the switch to clear the boulder blocking the path to the north.
+Continue onward to a locked door. This door will only open if you've found 12 or more blood and/or star stones. Interact with the door to proceed (5700 XP).
+Past the door, you will come across another Waypoint Portal (7590 Exploration XP). The following steps 5-9 unlock the pillars of enlightenment in this room and are optional towards completing this quest. There is nothing significant to gain by completing the puzzles aside from some XP and a couple of loot boxes.
+Step on the pressure plate in front of the stone head to open a door to the northeast. Proceed into the room and step on another pressure plate to unlock the northwest door. Be careful when you enter this room as the pressure plate will activate a poison gas trap. The statue in the room deactivates the trap. Find the tiny switch to the right of the door to open it.
+Head northeast to a broken bridge. Teleport across and destroy the door behind the crates to receive a new Waypoint Portal. Rift Travel to the new Portal (Source Temple Vault). Move eastwards while treading carefully until you reach the Trial Statues. Interact with the statues and they will describe a trait. You need to destroy the statue that does not represent your selected character's dominant trait. The wrong choice will teleport you to the Source Temple Entrance.
+Teleport or Feather drop a character through the steel bars and use the mirror to teleport again. Pick up the Earth key and rift travel back to the central room. Now repeat step 4 until you get past the poison gas room. This time head north past the bridge to a room barred by steel grates. Teleport a character across the bars and the lava. Have him use the switch on the north wall to open the door before looting the chest or it disappears. Use the Teleporter Pyramids to regroup. There is a hidden pressure plate slightly to the left of the lava surface which clicks and opens two more doors beyond the one you just opened. Leave a party member standing on the plate and send the rest of the party through both doors. Use Teleporter Pyramids to regroup. Follow the path and proceed through the Earth door to a room with sentinels. Use stealth or sneaking to get past them and regroup. It should be noted that the weight of one character is not enough to press open the pressure plate to the final door at the end of this path. You can use two characters or things of equivalent weight. A trap will activate so hurry into the next room and pull the lever to deactivate the trap. There are another two trait statues here. Destroy the one that does not represent you and grab the Air key. Note that there is a secret room to the northwest, obscured by some cobwebs.
+Return to the central room. Repeat step 4 but this time leave a character with a pyramid outside the poison gas room. Activate the pressure plate in the gas room and click on the statue to get rid of the gas. Regroup with the pyramid and you should now be able to get into the air room to the north east. This room is a maze of sorts. Use the hatches to proceed through it. There is hidden button in X177 Y215 (Hatch #7, in the room with 2 hatches separated by a metal gate) and on the north east wall. it requires 8 perception to discover. Hit the button and destroy the relevant trait statue..
+Now all 3 pillars of enlightenment in the central room are unlocked.
+Proceed to the library at the north end, and you will find nine candles arranged on a circular altar. You can read the two books found here for the solution or read on.
+Light every candle except the central one and wait for a lightning flash.
+Light only the central candle and wait.
+Light three candles in a line, from the south west to the north east and wait.
+A path hidden by the bookshelf disappears (28500 XP)
+Proceed through the opened path for a dialogue for +1 Spiritual or +1 Materialistic. At the end of the path you will find an unconscious Zandalor. Speak to him to complete the quest (7590 Exploration XP). There is a dialogue that ensues for +1 Romantic or +1 Pragmatic. Note that there is a path stemming off to the North-East which leads behind the Collapsed Portal to the First Garden, which will lead to 4080 Exploration XP and some extra loot.
+
+Rewards
+91200 Quest XP
+15180 Exploration XP
+Portal to the First Garden opens at Homestead
++1 Bold or +1 Cautious
++1 Spiritual or +1 Materialistic
++1 Romantic or +1 Pragmatic
+
+---------------
+
+Follow the Wizard
+
+Follow The Wizard is a quest in Divinity: Original Sin. This quest is acquired when speaking to Icara at the Homestead after you have created the Death Knight Bane Skillbook at the end of Infiltrating The Immaculates. The quest involves tracking down a powerful wizard in Hunter's Edge for a chance to stop Leandra. You don't have to finish Eternal Winter to receive this quest as there is a bug (v1.0.252) that allows you to pass the poisonous log without Icara's ring or the amulet from the wizard's house (see the Bugs section for more info). There is a companion quest, The Hunt in Hunter's Edge, that will need to be partially completed to finish this quest. Jahan's companion quest is also resolved during the course of this quest.
+
+Walkthrough
+Speak to Icara after creating the Death Knight Skillbook at the end of Infiltrating The Immaculates to receive this quest and to get Icara's Blessing.
+Complete Infiltrating Hunter's Edge to gain access to the town.
+Speak to the orcs and tribesmen to find out more about the Wizard's House.
+Go to the southeastern end of Hunter's Edge to find the Wizard's House, inaccessible due to the wizard's traps and barrier.
+(Optional) speak to the guards outside the house and win the RPS game (8160 Charisma XP) and/or kill them (5100 XP each).
+Proceed through The Hunt in Hunter's Edge to find the Wizard's servants.
+Talk to the Wizard's servants after showing them Icara's Blessing, They will give you the Portal Activation Crystal for the portal to the wizard's house.
+Enter the portal (4080 Exploration XP). You emerge on a large pressure plate. This will immediately trigger some fire traps, which is unavoidable. If the whole party leaves the pressure plate, the second set of traps trigger, so either teleport to the stairs to the north or leave one standing on the plate.
+Enter the second floor (5130 Exploration XP) for a new Waypoint. This area is littered with hidden/mirage mines. Memorize their location or avoid the center of doorways.
+Enter the southern room and light all four candle holders to activate the mirror.
+Enter the mirror to teleport to the adjacent room. Pull the lever there to deactivate the barrier.
+Enter the final room and activate the House Defenses Master Switch to disable all the traps in the house. This will allow the Wizard's servants to escape safely so speak to them to complete The Hunt in Hunter's Edge.
+Loot the Titan Dictionary, Wizard's Cellar Key, and Phantom Protection Amulet. The rest of the house can also be safely looted now, including Zandalor's Scroll on the first floor.
+Head over to the poisonous log to the east of the Phantom Forest Waypoint. Separate a single character from the group and make sure they have the Phantom Protection amulet (it does not need to be worn, you just need it in the inventory). Send that character through the log (4080 Exploration XP), through the mist to the clear area beyond (4080 XP). Use the Teleporter Pyramids to regroup.
+Make your way towards the swamp to the southeast of the forest. There will be a few Death Knights patrolling the area. Try to kill them (use Death Knight's Bane) or sneak past them if you can't. Some of the Mud Lords here are also tough and roaming the swamp are several Wandering Eyes that act as sentries and summon enemies if they spot you.
+(Optional) Along the way is a small earth elemental named Greal who will ask for your help and give you some information on Shearah, the Forest Spirit, who has been captured by Balberith (4590 XP).
+There will be an abandoned shack at the far end of the swamp guarded by Cyclops and ghosts. Kill them and enter the shack (52480 XP + 4590 Exploration XP). Enter the hatch in the shack.
+The Forest Spirit, Shearah, is imprisoned in a cage here and there is a demon named Balberith nearby. You can either make a deal with him or choose to fight him, although you can still fight him after making the deal, So it may be better to start with the deal.
+If you choose to make the deal, Balberith will task you with killing another demon, Raalzen Ax'aroth. He is located near the path to the Source Temple to the north of the swamp waypoint portal.
+Raalzen Ax'aroth is a fire demon, so use anything other than fire against him. His underlings explode when killed. It's best to keep them all frozen or stunned for as long as possible. Killing Raalzen Ax'aroth and his pets will net you 19000 XP + 4 x 5700 XP). There is a chest here with no legendary loot.
+If you choose to fight, Balberith will show his true demon form. He isn't that strong, but everything around him makes the fight more complicated. The Tormented Ghosts will continue to heal him to full health every round, so dealing with them should be your first priority. If the fight continues for too long, Balberith will summon more Cyclops monsters every few turns. The four Tormented Ghosts are 5130 XP each, the original Cyclops group is worth 21990 XP and Balberith is 12825 XP. You could farm more Cyclops monsters if you let the fight continue without killing him.
+If Jahan is in your party and you choose not to deal, Balberith will ask you to give up Jahan. Refer to The King's Dark Deal for more info.
+Once you have the Magic Rune Stone (12825 XP). speak to Shearah for some information about the Source Temple.
+(Optional) Kill the caged creatures to the right of the main cage with AoE spells (6500 XP each). It is bizarre but they will ask you to stop when you attack them like a normal NPC would.
+Fight your way to the Source Temple entrance located to the North of the swamp portal. There are several groups of Orcs, Goblins, Demons, miniboss captains and a unique Death Knight boss, the Demon Lord. The Demon Lord will create lava surfaces and teleport you onto it so beware. Enter the Source Temple when you're done.
+Progress through Inside the Source Temple and you will meet an unconscious Zandalor at the end. The amulet he was wearing is made of a Star Stone, and it reacts to the protagonists. Zandalor awakes, and speaks to you, completing the quest.　
+
+Rewards
+Hacksaw Decapitator
+
+---------------
+
+DIVINITY: ORIGINAL SIN 2
+
+---------------
+
+Death Belowdecks
+
+“
+Behind the Magister, a bloodied mass lies in a heap. Gore and limbs lie at odd angles; you can't make out a face amid the mess.
+„
+—Narrator's description of the crime scene.
+
+Death Belowdecks is a quest given by magister Waters in Divinity: Original Sin 2.
+
+Quick walkthrough
+Speak to Magister Waters
+Search for the killer aboard the Merryweather.
+
+Detailed walkthrough
+Once you leave the Tutorial Deck, exit the first room occupied by Magister Siwan. The room immediately to the right is guarded by two magisters. Enter it and speak to Magister Waters, who is investigating a bloody corpse.
+
+Ask Magister Waters about the murder of Finn. The quest should begin whether you agree or refuse to help investigate.
+
+If your character is an Elf or an Undead Elf, you can enter sneak mode out of sight of Magister Waters and loot the corpse for an arm. Eating the arm will trigger Finn's final memories, revealing the killer to be an old woman. Additionally, if you are playing as Fane, you can use the Mask of the Shapeshifter to turn into an Elf for the same results.
+
+You can inform Magister Waters of the memories. She will react negatively, but you will not lose any attitude points.
+
+Being caught looting the corpse will result in a -5 attitude from Magister Waters.
+
+Next, you can ask the people aboard the ship about the murder, but you will find no answers until the quest Troubled Waters is completed.
+
+---------------
+
+Troubled Waters
+
+Troubled Waters is a quest in Divinity: Original Sin II.
+
+Detailed walkthrough
+Upon awakening, ascend the ladder and speak with Siwan on the upper section of the room. She will explain that the Sourcerer is on board a ship called the Merryweather and has been collared to prevent them from using the Source. From here leave the room into the hallway and head into the main hold.
+
+Once in the hold, one can speak to Sebille, Lohse, Beast, the Red Prince, Fane and Ifan ben-Mezd if they so wish:
+
+Sebille can be found in the southwest corner, rolling dice.
+Lohse is in the northwestern corner, entertaining 3 children: Paulie, Sandy and Trice.
+Beast is sat at a table in the center of the hold, opposite Gil.
+The Red Prince is also in the center of the hold, toward the eastern end.
+Ifan is in the southeast corner, being watched by Magister Viktar.
+Fane is in the northeast corner, reading a book.
+Within the hold itself, three bedrolls can be found. One is near the sheep in the western corner, near the door one entered into the hold and 2 more can be found on a lower bunk in the centre of the hold. Immediately south of Ifan, under the crate is a greasy key which opens the door to the scullery. In here, a pocket knife and various consumable items can be found. On the wall at the rear of the scullery is a scroll from which six recipes can be learnt. (boiled potato, cold mashed potatoes and 4 recipes for mashed potatoes)
+
+Speak to Magister Payde, who will allow access to the stern room. Upon entering, a scene will start between Windego, who is surrounded by Magisters Yona, Ygritte and Williams. Windego will break her Source collar and cast Source blast, killing the three Magisters and knocking the player character down.
+
+Upon awakening, the stern room will be ablaze. Take the stairs in the stern room to the deck above. From here, the path directly in front of the stairs is blocked by flames. There is a water barrel that can be used to expunge the flames. From here, either pass through the now cleared path, head through the right to the north with a Source hound on passing through the door to the south. If one enters the room to the north or south, they can head east and enter the room where Magisters Ricks and Murtof are hiding.
+
+Continuing across the deck, Fane can be found in a room on the northwest side. On the central platform is a door marked with a skull that is locked. keep to the north east and the doorway on this side leads to a stairwell to the upper deck.
+
+Upon reaching the upper deck, a Magister knight will initiate a fight; however, the tentacle of a Kraken  will immediately crush them, avoiding the need for a fight. Just beyond the knight, are two Viscous Voidlings which must be defeated. continuing to the rear of the ship, as one reaches the helm another tentacle will strike, causing the area to ignite, killing Captain Kalwyn and a Magister knight who is with him. Head north and double back across the other side of the deck to the lifeboat. Here Gil, Trice and Paulie will be waiting. Either escape in the lifeboat or head back below the deck to rescue the other Sourcerers before escaping.
+
+---------------
+
+A Fate Worse Than Death
+
+A Fate Worse Than Death is a side quest in Divinity: Original Sin II.
+
+Quick walkthrough
+Speak to the skeletons
+Grab the soul jars
+Smash the jars
+Consume the souls in the jars
+
+Detailed walkthrough
+Go through The Gargoyle's Maze or finish The Vault of Braccus Rex and acquire the Band of Braccus from Trompdoy's illusion's corpse, and reach the tower at the end of the maze.
+Enter and speak to the three skeletons sitting at the table, this will begin the quest. If during The Vault of Braccus Rex the player smashes or consumes the soul jars inside the skeletons will be dead.
+Once the player has done whatever they desire to the soul jars, return to the room with the skeletons, this'll finish the quest.
+The following is optional.
+Return to the skeletons and acquire the key off of Tamsyn's body, open the door.
+Go into the inner area and go to the large source doorway at the back
+If the player has finished Withermoore's Soul Jar up to the point where he is "dead" inside the cell you met him he will return when you interact with the lever next to the gate to open it.
+If the player hasn't finished Withermoore's Soul Jar up to that point, cast Bless on it to open it.
+Loot the room and acquire the Hands of the Tyrant from the right side coffin. This will progress Artifacts of the Tyrant.
+
+Rewards
+Hands of the Tyrant (This will trigger the quest Artifacts of the Tyrant if it has not already been triggered).
+
+---------------
+
+The Arena of Fort Joy
+
+The Arena of Fort Joy is a side quest in Divinity: Original Sin 2.
+
+Quick Walkthrough
+Enter the underground area beneath the Camp Kitchen and you will arrive in the Arena of the One.
+Speak to Thola, The Thorny One and she will ask you if you have come to prove yourself, if the player is ready agree to the fight and they will be taken into the arena where they will face 4 enemies.
+Defeat these enemies and the player will be rewarded with the title of The One.
+Completing this quest will also allow Nebora to remove the main avatar's collar, however be aware that the magisters will all become aggressive towards the player.
+
+---------------
+
+The Purged Dragon
+
+The Purged Dragon is a side quest given by Slane the Winter Dragon in Divinity: Original Sin II.
+
+Quick Walkthrough
+Destroy pillars binding Slane
+Speak with Slane
+Go into
+Kill Radeka the Witch
+Take her purging wand
+Return to Slane and give him the wand
+
+Detailed Walkthrough
+Make your way to the location shown in the image above.
+You'll find Slane tied up by source shackles; destroy the bindings and speak to him.
+Slane will instruct the player to move south towards a cave. (2,100 Experience)
+The player will be greeted by quite the nasty trap when they enter; set the trap off and cast Rain to clear the entrance, cast Rain once again and hug the right side of the cave to navigate past it, move to the left side once clear as there is a secondary trap ahead of it.
+Clear or rush through the secondary trap; it is much smaller than the first.
+The player will now arrive at the main room with Radeka in it.
+Speak to Radeka and once the battle begins she will summon Carrion Beetles and Corpses to attack you. A good strategy would be to have one character speak to her and retreat to the entrance of the room thus funneling the enemies into the player's party instead of being surrounded.
+Be aware that the Corpses have level 4 Retribution and will do a decent amount of damage back to the attacker, so try to avoid them. The corpses and the beetles both have ranged attacks so try to break their line of sight of the player party.
+Once Radeka and her minions have been defeated, loot her body for the Blood Rose and the Purging Wand.
+Acquiring the Purging Wand will add progress to The Vault of Braccus Rex. Slane will also take the Purging Wand, if you give it to him.
+Return to Slane.
+Slane will now leave. The player will see him again during the final quest to escape the island.
+Combine the Blood Rose with an Empty Potion Bottle to get an Attar of the Black Rose which permanently raises the stats of all 6 attributes for one character.
+
+---------------
+
+Artefacts of the Tyrant
+
+Artefacts of the Tyrant is a quest in Divinity: Original Sin 2. The quest is started by picking up one of the armor pieces or by reading a journal found on the corpse of Magilla near the crocs for The Teleporter quest.
+
+Detailed walkthrough
+Find any one of these pieces of the set to begin the quest, then collect them all to finish.
+Find the Tyrant's Stride inside the Ancient Passage during Withermoore's Soul Jar.
+Find the Tyrant's Helm inside the Decrepit ruins.
+Find the Tracks of the Tyrant upon the body of Lorenzo, which can be found inside the Static Tower.
+Find the Heart of the Tyrant during The Vault of Braccus Rex.
+Find the Hands of the Tyrant inside Braccus Rex's Tower.
+Once the full set has been collected equip it to remove the curse.
+
+---------------
+
+The Armoury
+
+The Armoury is a quest in Divinity: Original Sin II.
+
+Quick walkthrough
+
+Enter the Decrepit ruins in the Braccus Armoury after saving Gareth. You'll need Bless so go finish The Vault of Braccus Rex if you haven't already.
+Speak to Magister Sang about what happened; afterwards you can kill him for 1,700 Experience. (He is dying anyways and he asks you to kill him so don't feel bad!)
+If you don't have any source points on you, there is a source fountain in the corner of the room; get some and cast Bless on the level as it is cursed. The doors will now swing open for you and the quest will begin.
+Interact with the shrine while having a source point on your main character. (900 Experience)
+Pick up the Corrupted Tyrant's Helm from inside the shrine; this will advance the quest Artifacts of the Tyrant and finish the quest The Armoury.
+
+Rewards
+2600 Experience
+Corrupted Tyrant's Helm
+
+---------------
+
+The Shakedown
+
+The Shakedown is a quest in Divinity: Original Sin.
+
+Quick walkthrough
+There are multiple results depending on what you choose to say and do.
+You can let Elodi fight them alone, she will die and you will get nothing.
+You can choose to not stand by and watch, you and Elodi will fight Burro and Kana.
+You can disable Burro by tricking him into thinking you are handing over your money and knee him.
+If you have the Rogue tag you can convince them Elodi is some sort of brutal mythic figure called the Impaler and they will leave her alone.
+You can pay the thugs a gold piece and they will leave Elodi alone.
+If you help Elodi she will direct you to follow her to the Caverns where she will give you her final reward, the severed head.
+
+Rewards
+300 Experience if you side with Elodi and stop Burro and Kana.
+Bonus 480 Experience if you choose to kill Burro and Kana.
+Severed Head. (Teaches [[First Aid if eaten by an Elf companion.)
+Burro's Club. Looted from Burro's corpse. It is a named item, but isn't that strong.
++100 Attitude towards any party members if you help Elodi.
+
+---------------
+
+Call to Arms
+
+Call to Arms is a main quest given by Gareth in Divinity: Original Sin.
+
+Quick walkthrough
+ 		
+Complete the quest Most Dangerous When Cornered
+Speak with Gareth
+Go to Sanctuary of Amadia
+Speak with Gareth
+
+Detailed walkthrough
+ 	
+After the player rescues Gareth during Most Dangerous When Cornered they will be instructed to meet Gareth back at the Sanctuary of Amadia to learn what to do next.
+
+---------------
+
+The Burning Pigs
+
+The Burning Pigs is a side quest in Divinity: Original Sin.
+
+Quick walkthrough
+
+Once you've acquired Bless from The Vault of Braccus Rex go to the location shown here.
+Burnpigs.png
+If you need Source there are multiple puddles in the area of the burning pigs. Now Bless a pig and Scapor will show up, you can talk her out of fighting or you can kill her.
+Once Scapor is dead by fighting or by convincing her to pass on finish blessing all the pigs.
+
+Detailed walkthrough
+
+You will fight an undead lizard named Scapor, she'll appear after you bless the first burning pig. Scapor is quite weak so there isn't a strategy to fight her.
+
+Rewards
+ 		
+1,800 for Scapor or 3,000 for persuading Scapor to leave.
+600 for each pig that the player Blesses.
+
+---------------
+
+The Shriekers
+
+The Shriekers is a side quest in Divinity: Original Sin II.
+
+Quick Walkthrough
+Learn from Tarlene about the shreikers.
+Save Gareth from the Magister party.
+The player can find more information about the Shriekers on the corpse of Magister Farray.
+Magsiterfarray.png
+Farray.png
+Return to the sanctuary and speak to Gratiana about the source weapons.
+Complete the quest The Vault of Braccus Rex.
+Use Purge from the wand on a shreiker.
+Speak to Gratiana when the purging wand runs out of charges; she can refill it.
+Head east from the ruins and you'll encounter a blinded Magister and his dead companions along with some skeletons. You can either let him go or reveal yourself to him and kill him.
+Find the letter nearby and read it to advance the quest.
+
+---------------
+
+Finding Emmie
+
+Finding Emmie is a side quest given by dog Buddy in Divinity: Original Sin II.
+
+Quick Walkthrough
+The player can start finding Emmie by using a character with the talent Pet Pal to speak with Buddy, a black dog located near the Caverns.
+Take the key he should dig up, unless you were mean to him.
+Go to the Houndmaster's room on the ground floor of Fort Joy.
+Pacify the source hounds using Pet Pal, throwing the Leather Ball to distract them or kill them.
+Return to Buddy to tell him of Emmie's fate.
+
+---------------
+
+Hot Under The Collar
+
+Hot Under The Collar (or The Collar in the classic varsion) is a quest in Divinity: Original Sin 2.
+
+Quick walkthrough
+Quest is granted when the player begins the game.
+The player can remove the collar three different ways, listed below.
+Complete The Arena of Fort Joy and visit Nebora to remove the player's main character's collar.
+Save the Seekers leader Gareth during Most Dangerous When Cornered and have the dwarves Leya and Duggan remove the collars back at the Seeker camp.
+If Beast is in the party, have him speak to Duggan at the Seeker camp to remove the party's collars.
+Getting the collar removed by any method will complete the quest.
+Please be aware that removing the main characters source collar via Nebora will instantly make all Magisters in the fort aggressive against that character.
+
+Rewards
+Able to gather Source and cast Source skills.
+
+---------------
+
+The Teleporter
+
+The Teleporter is a side quest given by Gawin at Fort Joy ghetto in Divinity: Original Sin II.
+
+Quick Walkthrough
+Speak to Gawin to acquire The Teleporter quest.
+Go to the beach and acquire the Gloves of Teleportation by defeating the Saltwater Crocodiles.
+Return to Gawin and tell him you have the gloves.
+Follow him to the Hidden Alcove.
+Teleport him across the gap as he asks.
+
+Detailed Walkthrough
+Tips for fighting the Crocs
+The crocs can be nasty enemies to fight right away and shouldn't be underestimated, they can easily overwhelm a party.
+
+Look out for their Scale-Portation, most of the time they will use it for positioning, but have been known to use it as an offensive ability landing straight on your squishy party members and following up with a heavy hitting melee attack. (Squishy: Low health/armor targets that are usually powerhouses, but easily taken down if surrounded or focused down.)
+They will often use Fossil Strike to deal ranged damage and spread oil fields, try to refrain from using fire element spells or weapons as they will set fire to the oil and that usually ends up frying your whole party and doing minimal damage to the Crocs themselves.
+Use the environment to your advantage at the start of battle; if you have a damage focused spell caster or a sniper place them up on the cliff above and open up with a strong attack to shatter some armor or health of a Croc.
+
+Crocsstart.png
+4. There are two oil kegs in this battle scenario, one located near the entrance of the fight at the choke point and another located back where the third Croc comes from. The first keg in the choke point is usually smashed early on by the Crocs, so make use of it during your first turn if you intend to utilize it at all.
+
+Post-quest Options
+Gawin has abandoned you on the ledge. Here are your options for this area:
+
+Use teleportation on your own party to go to the ledge you sent him to, and explore from there
+Return to Fort Joy Square and complete the quest to discover the hidden hatch by the shrine. This underground area leads to its west door of the dungeon described below. The door can be unlocked by a hidden lever just north-west of it.
+Destroy the log next to you and go down the hole. You'll end up in the space between the ledges and will have to go through the cave of which will land you inside the Fort's 3rd floor dungeon. From here you can pick the lock of the cell with Vasnya in it and escape via the Underground Tunnels by one of the following:
+Escape via the 2nd floor into the 1st floor of the Fort. (Before leaving the area be sure to grab the loot off the dead elf corpse in the canyon.)
+You can also go to the end of the hallway and defeat the Hound Master and his minions to acquire a key to the large door.
+Pick the large door to the west of the cell you landed in and escape via the shrine teleportation or going up the ladder into Fort Joy's camp near the shrine.
+
+Rewards
+600 personal experience for the character that accomplishes the quest.
+120 Experience for the whole party per Croc killed. 360 Experience in all.
+Gloves of Teleportation
+Optional Loot:
+Gawin's Robe
+
+---------------
+
+Healing Touch
+
+Healing Touch is a side quest in Divinity Original Sin II.
+
+Quick Walkthrough
+Go to the Sanctuary of Amadia in the Hollow Marshes.
+From the vine ladder turn left into their camp and you'll see three npcs laying down with health missing, Jules, Klaud and Matis
+Use Restoration on each of them.
+
+Rewards
+4500 experience
+1500 for healing Jules
+1500 for healing Klaud
+1500 for Matis
+Skull Amulet
+
+---------------
+
+The Cursed Ring
+
+The Cursed Ring is a side quest in Divinity: Original Sin 2. After a battle with Trompdoy in the Vault of Braccus Rex, you discover an old ring on the corpse of one of his illusions, it whispers to you, compelling you to wear it. Upon putting it on you discover that it has been cursed and that the curse will linger upon you until you remove it.
+
+Quick walkthrough
+While doing the quest The Vault of Braccus Rex the player will come across the Band of Braccus during the second encounter with Trompdoy and his illusions.
+Put it on to continue the quest and it'll curse the player. The player can remove the ring, but the curse will remain until the player uses Bless on themselves. If the player puts the ring back on after casting Bless, it'll curse them again.
+Take the ring and place it on another party member to complete the quest.
+
+Rewards
+Band of Braccus Rex
+
+---------------
+
+The Tribe of Saheila
+
+Saheila's people originally titled The Tribe of Saheila is a quest in Divinity: Original Sin 2. The quest The Imprisoned Elf must be completed before this quest becomes available.
+
+Quick walkthrough
+Once Amyro has been saved go to The Caverns and speak to him and Saheila about escaping.
+Amyro will have given the player Saheila's crest during the conversation in the cage.
+Optional: The Godwoken can speak to Saheila about Amyro and escaping.
+
+---------------
+
+Most Dangerous When Cornered is a quest in Divinity: Original Sin 2.
+
+Quick walkthrough
+Start the quest via one of these two.
+Go to the Sanctuary of Amadia and speak with Gratiana.
+Meet Tarlene near the old armoury.
+You'll learn Gareth went off to an old armory that holds the weapons of Braccus Rex, their only hope for escaping the Magisters and their Shreikers.
+Travel north to the old armory to find Gareth surrounded by Magisters.
+Kill the Magister party and speak to Gareth.
+Gareth will tell the player that they should return to the sanctuary. Speak to him and then Gratiana.
+
+---------------
+
+The Escape
+
+The Escape is a quest in Divinity: Original Sin 2.
+
+Quick walkthrough
+The Escape is the first quest you are given after escaping The Hold and it is for the moment the player's primary goal.
+The player will encounter two Viscous Voidlings on the way to the camp, defeat them and the progress will update.
+The player has many options to escape the fort.
+Following the quest Signs of Resistance.
+Slaying Kniles the Flenser and escaping through a pipe in his room.
+Escaping via the draw bridge within the fort itself.
+(more to come)
+Arrive at the Sanctuary of Amadia or help Gareth during Most Dangerous When Cornered first, then go to the Sanctuary of Amadia.
+The player will be informed that they require a purging wand to help the escape
+Acquisition 1: The Purged Dragon, don't give the wand to Slane.
+Acquisition 2: Finish the Vault of Braccus Rex to acquire one.
+
+Detailed walkthrough
+Upon landing on Fort Joy beach, travel south to Fort Joy camp. If one bears to the west, they will encounter the Red Prince, who can be convinced to join the party.
+
+---------------
+
+The Vault of Braccus Rex
+
+The Vault of Braccus Rex is a quest in Divinity: Original Sin.
+
+Quick walkthrough
+Discover a journal about the vault on a corpse near the Crocs from The Teleporter quest.
+To continue the quest you'll need to level up and escape the fort into the marshes. Location below.
+Lizardsfight.png
+You'll come across three Void Woken Salamaders, two are fire based and one is poison based, they have appropriate coloured skins. Check out Encounters section below for tips on fighting them.
+Once defeated enter the Mysterious Cave on the right side of the map, it'll be marked.
+Enter the cavern, you'll receive 2,250 experience. Move onward until you reach the area in the image. Trompdoy will appear to mock you, get through his dialogue and cross the illusionary bridge behind the crates, just gotta walk on the spot. The crates are trapped also, so don't open them.
+Cross the bridge and you'll come to an area where Trompdoy will ambush you with three clones of his, a warrior, a ranger and a mage. Defeat them for 1,200 Experience each. Do not touch the chest, its just a trap with no loot.
+Continue down the path until you reach the Mysterious Room. The small area on the north side has treasure in it.
+Speak to the statue in the center and he will require you to answer two questions to pass. The answers are 1 and on the second question the answer is 2. Earn 2,950 experience for answering the questions.
+Move onto the east pathway, this is where it gets tricky. Trompdoy will once again ambush you with more and stronger clones. You'll fight through two waves of clones, but once you've defeated enough of them the fight will end and you'll get experience. Be sureto loot the mages corpse as it will have an item that is part of Braccus Rex's collection and will start the Cursed Ring.
+The best way I've found myself to fight them is to bring the party onto this platform and it'll remove any line of sight for height advantage by enemy archers and mages. It also gets them to all come to you instead.
+Move to the final room, the treasure room. In here will piles of gold you can actually loot! (crazy right?), some chests, some paintings, a Purging Wand, the Supernova skill-book and another piece of Braccus Rex's collection, Heart of the Tyrant. Do not smash or absorb the soul jars as they are part of The Eternal Worshipper quest. (Note that all the pieces of his set are cursed, so don't wear them yet.)
+Picking up the Heart of the Tyrant will begin the Artifacts of the Tyrant quest.
+You can choose to release Trompdoy from his enslavement or not.
+Go around the corner and examine the statue. This will unlock Bless for you and progress the main story.
+The quest is now finished. Return to the Sanctuary of Amadia to continue The Eternal Worshiper.
+
+Rewards
+Choice of items from Trompdoy.
+Purging Wand
+Bless skill
+Heart of the Tyrant
+Experience
+
+---------------
+
+Nothing But Child's Play
+
+Nothing But Child's Play is a quest in Divinity: Original Sin 2.
+
+---------------
+
+The Gargoyle's Maze
+
+The Gargoyle's Maze is a quest in Divinity: Original Sin.
+
+Quick walkthrough
+Begin the quest by entering the maze here or sneaking into it via vines around the ledges. The player can convince the gargoyle that guards the door to let them in or if they have the Band of Braccus from the Vault of Braccus Rex they can enter, however using the Band will teleport the player to the end of the maze to Braccus's tower.
+The player will need to find Crumbling Skulls to get through the gates and to find the maximum amount of loot possible from the maze. The gates can also be lockpicked if the players Thievery is high enough.
+When entering the maze there is a pressure plate at the center of the room, stepping on it will conjure a Crumbling Skull on a table to the left, if the player character steps off the plate it will disappear so use another character to pick it up.
+Continue left through the gate and the player will discover a hatch that leads to the hatch on the opposite side of the wall.
+Once in this room set one character on the pressure plate in the center of the room, beware of the trapped floors. Send a second character through the door to the indicated spot where the second pressure plate is at, again beware of trapped floor tiles. Collect the Crumbling Skull with the third character.
+The player will need Raining Blood and Rain for this, if those are not acquired the player will not be able to save the Historian. You also need to be able to cast a Bless spell, which you cannot do until you have had your Source Collar removed. Once the Crumbling Skull from the room above has been acquired go back and up the stairs, through the gate to the Historian (burning fellow), a small battle will begin against some skeletons, after the battle is over use Rain of Blood followed by Rain and finished off by Bless on the Historian to save him.
+After saving the Historian go through the gate in the image and set a character on the pressure plate shown, opposite of it in the lower room a Crumbling Skull will appear.
+Go through this portal shown to find another skull.
+Go out the southern gate in the room the Historian was at and follow the image to find another Crumbling Skull on a corpse in a corridor.
+Go down this corridor for more loot, but watch out for floor traps to ignite the gas cloud.
+Go around the corner for another Crumbling Skull on a body.
+The player should now have found all 6 skulls in the maze, go to the tower entrance and the gargoyle there will reward the player.
+
+---------------
+
+Withermoore's Soul Jar
+
+Withermoore's Soul Jar is a quest in Divinity: Original Sin 2.
+
+Quick walkthrough
+Speak to Mody in the Caverns
+Dig up mound where Mody is found the second time
+Talk to Withermoore
+Remove the spear from Withermoore
+Agree to free Withermoore's soul
+Activate the trapdoor at the Shrine to Lucian
+Enter Fort Joy through the trapdoor
+Break the "Withermoore the supplicant" jar
+Interact with the glowing relic at the Gargoyles Maze
+
+Detailed walkthrough
+To begin the quest, go to the Caverns and talk to a child called Mody, play his game and find him twice. The first time he can be found by simply following him, the second time he will cloak himself and can be found up the slope to the right of the entrance. Upon finding him thew second time he will say that the party should meet his friend, but they will have to find another way. A mound can then be found near here, dig it up and it will reveal a hatch to the forgotten cell.
+
+Follow the path down and talk to Withermoore, the tall petrified skeleton. He will request that the spear in his chest is pulled out; this requires a minimum of 12 Strength. Alternatively, if there isn't a character in the party with a high enough Strength statistic the spear can be destroyed via normal attacks.
+
+When the spear has been removed, Withermoore will express joy at being freed, followed by dismay that he hasn't decomposed. He will then realise that this is due to his soul being removed and stored elsewhere; his freedom will only be granted when it is released. Agree to help free his soul and he'll advise of a secret trap door at the shrine in Fort Joy camp. Go to the shrine to the seven and activate the trap door from the dialogue, the party will then find themselves in an underground area where they'll find a waypoint shrine. There will also be a locked door with the lever to open it on the left of it (facing it from where you came in); the lock can also be picked.
+
+The party will now be in the holding cells of Fort Joy, pick the lock at the top of the stairs or defeat the Magister hound master and his followers to gain the key to unlock it. The door will lead to the ground floor of the castle. The silent monks here are harmless unless attacked. Follow the hall to the staircase opposite of where the party entered from and go to the side of it (where an alter can be seen) and a lever should be revealed to you that will take you to an underground chamber.
+
+In the chamber, there are poison gas traps on the floor. The vases on the raised area to each side of the hallway can be moved to block the vents, causing the gas to recede. At the end of that hallway there are multiple soul jars. The one that says "Withermoore the Supplicant" is the vase required to complete the quest; all of the others are traps.
+
+From here either:
+
+Break the jar.
+Absorb the soul.
+Pick it up and take it to Withermoore. One can choose to break it in-front of him, or fight him. Fighting him will provide the completion experience, plus a little extra for killing him and a health pot from Mody. Handing over the pot will result in additional dialogue to that of if his jar is broken upon discovery.
+Regardless of the choice made, his belt can obtained from his corpse in the forgotten cell.
+
+Later during the quests The Gargoyle's Maze and A Fate Worse Than Death Withermoore will be encountered one last time as he helps the party through a source powered gate, upon interaction with the adjacent glowing relic. This will complete his journal entry.
+
+Rewards
+Smashing the jar:
+Experience for smashing Withermoore's Soul Jar, setting him free.
+Lord Withermoore will come back one last time to unlock the barrier door inside Braccus Rex's fortress.
+Absorb his soul:
+Experience + a Source Point.
+Fighting Withermoore
+Experience points and an extra health potion.
+
+---------------
+
+Signs of Resistance
+
+Signs of Resistance is a chronicle in Divinity: Original Sin 2.
+
+Quick walkthrough
+You'll begin the quest by finding a letter from Dallis, The Hammer warning the Magisters of a group called The Seekers. (Need to re-find the letter and add it)
+Enter the Holding cells below Fort Joy and defeat the Houndmaster and his goons. You'll find Magister Delorus there; use a healing spell or give him a healing potion to learn about a way to escape the prison.
+Go to the second floor of the fort and you'll find Magister Goa and Carin harassing a kid named Han; either convince the two that you are there to help or kill them.
+Talk to Han and escape via the boat to the Hollow Marshes.
+Make your way to the other side of the island to the Sanctuary of Amadia and speak to the group of Seekers.
+Head north to find Gareth and help him fight off the Magisters.
+
+Acquire a Purging Wand and return to Gareth.
+
+---------------
+
+The Imprisoned Elf
+
+The Imprisoned Elf is a quest in Divinity: Original Sin II.
+
+Quick walkthrough
+Speak to the caged elf in the camp kitchen
+Either:
+Forcibly free Amyro.
+Agree to retrieve Griff's stolen goods.
+Retrieve the stolen goods from Stingtail.
+(Optional) kill the assassin Silence.
+Speak to Stingtail.
+Speak to Amyro
+Follow Amyro to the caverns
+Speak to Saheila.
+
+Detailed walkthrough
+In a cage at the south of Fort Joy camp is a sick elf, named Amyro. Upon attempting to speak to him Griff will call out to advise the Sourcerer to leave him alone and will explain that he is a thief that stole his oranges. Agree to retrieve Griff's stolen fruit and head south to Stingtail's camp.
+
+Upon reaching the camp, speak to Stingtail and convince him to return the stolen goods. If Sebille is in the party, she will want to speak to him first and kill him after her conversation with him; the orange can simply be taken from him body afterwards.
+
+Return to Fort Joy camp and hand over the orange, when asked advise that Stingtail is the thief. If he is still alive, Griff will send an assassin, Silence to kill him. Regardless of if Stingtail is still alive, Griff will release Amyro, speak to him and he will advise that Saheila must not die within the camp and request that the party follow him to the Caverns.
+
+Upon entering the caverns, speak to Saheila. Once the conversation has ended, the quest will be completed.
+
+---------------
+
+The Murderous Gheist
+
+The Murderous Gheist is a side quest received by speaking with either Migo or magister Yarrow at Fort Joy in Divinity: Original Sin II.
+
+Quick Walkthrough
+Acquire a Yarrow Flower before starting this quest as it is a crucial item to completing the quest in a peaceful resolution. You'll find a Yarrow Flower before entering the camp here at the image to the right. Coordinates are x212 y 243. (I had already picked it up when i took this photo)
+Speak to Magister Yarrow
+Find Migo in a tucked away piece of beach next to The Caverns
+Speak to him and offer him the Yarrow Flower, in exchange he will give you his ring Or alternatively you can kill him (it is worst variant).
+Return to Magister Yarrow and show her proof of finding Migo by giving her his ring.
+Follow Magister Yarrow back to Migo and converse with them to finish the quest.
+Now you can kill them both and take max exp and all artifacts... and don't forgot pickpocket Magister Yarrow
+
+Rewards
+Kill Migo
+1,000 Experience for killing Migo
+300 Experience for telling Magister Yarrow and giving her Migo's Ring as proof
+Migo's Breastplate
+Tell Magister Yarrow where Migo is
+600 Experience for telling Magister Yarrow where he is
+Magister's Key
+Tag "Hero"
+Tell Magister Yarrow where Migo is and kill both
+2400 Experience
+600 for telling Magister Yarrow where is Migo
+1000 Experience for killing Migo + 800 Experience for killing Magister Yarrow
+Magister's Key
+Migo's Ring and Migo's Breastplate
+Tag "Hero"
+
+---------------
+
+Lady o' War
+
+Lady o' War is a main quest in Divinity: Original Sin 2.
+
+---------------
+
+Dark Dealings in the Blackpits
+
+“
+Here, in the Blackpits, are White Magisters. Their operation is shrouded in mystery, and this pricks our ears. We are gravely concerned. We believe the the White Magisters may have strayed into the darkness.
+„
+—Thom Hardwin
+
+Dark Dealings in the Blackpits is a quest in Divinity: Original Sin 2.
+
+Rewards
+ 		
+Accepting the quest gives 4175 exp.
+The money reward depends on the Godwoken's choice.
+100 gold (reasonable sum)
+300 gold (unreasonable sum)
+1000 gold (outrageously unreasonable sum) -> requires persuasion
+War Owl Whistle
+
+---------------
+
+Powerful Awakening
+
+Powerful Awakening is a main quest in Divinity: Original Sin 2
+
+Background
+ 	
+After godwoken escape the Fort Joy and arrive in Driftwood they need to meet with Meistr Siva who will help them meet up with their respective Gods . Once this has been achieved the Godwoken need to expand their Source powers by learning from other Source Masters.
+
+---------------
+
+Red Ink in the Ledger
+
+Red Ink in the Ledger is a side quest in Divinity: Original Sin 2.
+
+Quick walkthrough
+
+Speak with Garvan at Black Bull
+
+---------------
+
+The Advocate
+
+The Advocate is a quest in Divinity: Original Sin 2.
+
+Quick walkthrough
+Speak with the Advocate on the western side of the Bloodmoon Island (X:276,Y:355)
+Kill Black Ring troops at the Ancestor tree in middle of the Island
+Speak with Advocate to complete the quest
+
+Detailed walkthrough
+Upon entering the Bloodmoon Island, by crossing the fallen bridge, a possesed "pilgrim", "knight" and "bride" will urge godwoken to speak with their master. Their master is located at the western side of the Bloodmoon Island. The Advocate will ask the godwoken to kill the Black Ring troops at the Ancestor tree in middle of the island.
+
+While speaking with him it is possible to ask who is behind the godwoken. However to be able to receive an answer the godwoken needs to succesfuly pass a persuasion check. If passed the Advocate will reveal that the God KIng is behind the voidwoken attacks, and doing so summon a hostile group of voidwoken.
+
+After the godwoken had killed the Black Ring troops, the Advocate will reveal a location of the Nameless Isle and move with his servants to the Ancestor tree.
+
+Rewards
+Location of the Nameless Isle
+Achievment: Lawyer Up
+Standart quest reward
+
+---------------
+
+The Forgotten and the Damned
+
+“
+Guardian burning bright with Source-ful flame,
+Abide the sacred call; Reveal the godsless hall.
+„
+—excerpt from The Taming of the Holy Fire
+
+The Forgotten and the Damned is a side quest in Divinity: Original Sin 2.
+
+Quick walkthrough
+Enter the Bloodmoon Island and interact with one of the angel statues.
+Read the book The Taming of the Holy Fire with character that has a "Scholar" tag.
+Approach one of the statues and sing the song from the book.
+Complete all the sub-quests:
+Metalwork
+Forge levers with Silver Bars and deal with the possesed
+Delusions of Greatness
+Kill Rajjarima
+Silent as the Grave
+Transport the child to the Lady Vengeance or kill her
+The Sweet Shackles of Pain
+Kill the demon that possesed the dwarf
+
+Detailed walkthrough
+
+First the godwoken needs to open the entrances to the respective vaults. To do so the godwoken needs a "Scholar" tag and read a book named: The Taming of the Holy Fire.
+
+One of the books can be found in the Archives on the north-eastern side of Bloodmoon Island.
+
+The book is in the pile of books on the right side of the room.
+
+Afterwards the godwoken has to approach atleast one of the three angel statues and sing the hymn described in the book.
+
+Once godwoken entered one of the vaults they will receive a quest associated with the respective vault. If the godwoken are unable to enter the deeper part of the vault they have to find an ancient forge. Once they had found the forge they receive the quest Metalwork.
+
+Metalwork
+
+“
+Odd, old thing, isn't it...
+„
+—Godwoken
+This quest is received after the godwoken finds a forge on the northern side of Bloodmoon Island.(X:317,Y:477)
+
+The godwoken has to find "silver bars" which are scattered throughout the island and forge them into levers. One of the silver bars is right next to the forge.
+
+The levers are essential for entering two of the three vaults.
+
+Delusions of Greatness
+
+Rajjarima shackled
+
+“
+You must not speak to it! You must not speak to the one who must be chained! It will steal your soul! It will steal your very soul!
+„
+—Robert
+The quest is accepted upon entering the vault at Bloodmoon Isle.(X:306,Y:392)
+
+Once the godwoken enter it they have to speak with spirit of brother Robert. The Robert will refuse to speak with them until the godwoken had restored the lever to the door.
+
+Inside the vault is a chained lizard Rajjarima, who is a godwoken as well. When godwoken speaks with her she firstly asks if they could set her free, in exchange for power. If they refuse she asks twice more. If they refuse her again she attempts to hypnotise them and the godwoken has to pass a persuasion check.
+
+The persuasion options are: Constitution, Intelligence, Strength and Wits.
+To pass the persuasion checks the godwoken needs 5 points in Persuasion.
+The last option avaliable dialogue option forces godwoken to free Rajjarima who takes all source from the godwoken who freed her. This will also take place if godwoken fails the persuasion check.
+
+The moment Rajjarima breaks free a fight takes place.
+
+The quest can only be completed when Rajjarima dies.
+
+Silent as the Grave
+
+Possesed child and her cat
+
+“
+Some... some form of demon seized her, and nested inside her mind. She cannot speak or move. We did what we could to help, but we could not risk provoking the beast within...
+„
+—Morgan
+This sub-quest is accessed by reading a report about the child or accessing her vault. (X:253,Y:394)
+
+Once player accessed her vault they have to persuade the spirit of Morgan, to allow them to go onward, by promising him that they will take her far away from the place and not harm her.
+
+To be able to progress this quest the player must forge a silver lever and persuade a ghost of brother Morgan to be able to proceed deeper into the vault. Once in the vault the player may progress the quest in few ways:
+
+Kill the girl and the cat Buttons
+Persuade the cat Buttons to let godwoken help the child.
+There are three avaliable persuasion options: Strength, Finesse and Intelligence
+Should the Godwoken decide to help the child they must destroy the pillars shackling the child.
+After godwoken breaks the pillars they have to persuade the child to respond to them:
+There are three persuasion options: Strength, Wits and Memory
+If the persuasion is succesful the child is transported unto Lady Vengeance lower deck
+
+The Sweet Shackles of Pain
+
+The possesed dwarf
+
+“
+This demon gluts itself on pain. Only the utmost torture would draw him forth.
+„
+—Kalvin
+This quest is accessed by reading a certain book about a possesed dwarf in the islands vault or by directly accessing the specific vault.
+
+To access the deeper part of the vault the Godwoken has to forge a lever and persuade a spirit of brother Kalvin.
+
+To succesfully exorcise the dwarf the godwoken must damage him. Once on low health a demon will jump out of his body. Upon attacking the demon it will jump into any present character and possess it.
+
+To get rid of possesion the godwoken has to be damaged. It should be noted that the demon may jump unto another character in its vicinity, if this happens the possesed character has to be damaged until the demon jumps out.
+
+Once the demon is dead the quest is completed and the dwarf leaves the vault.
+
+Rewards
+ 		
+Delusions of Greatness
+Killing Rajjarima awards 36 100 exp
+Completing the sub-quest awards 21 675 exp
+Sweet Shackles of Pain
+Teleporting the child to Lady Vengeance awards 14 450 exp
+
+---------------
+
+They Shall Not Pass
+
+They Shall Not Pass is a side quest in Divinity: Original Sin 2.
+
+Quick walkthrough
+Speak to Barin on the bridge
+Cross the river and enter the Bridgekeeper's House
+Speak to Mari
+Kill Voidwoken outside the house
+Lower the bridge
+Speak to Mari and Barin
+
+Detailed walkthrough
+The quest is received by speaking to child named Barin who stands on a bridge. The godwoken need to find and speak with Barins mother Mari who is locked inside her house on other side of the bridge.
+
+To get to the house the godwoken can use any teleportation skill and port themselves on the boat floating on the river below bridge. From the boat the godwoken can climb the ladder and enter the Bridgekeeper's House. Once inside the godwoken need to speak with Mari.
+
+Once they have done so they need to defeat the Voidwoken outside. Once the Voidwoken are defeated Mari asks Godwoken to lower the bridge. After Mari reunites with her child the godwoken may ask for a reward.
+
+Rewards
+ 	
+Entering Bridgekeeper's House awards 4175 exp
+Killing all monsters awards 10 000 exp (one monster worth 2000 exp)
+Completing the quest awards 5000 exp
+Choice of random armour and weapons of rare quality
+Free passage to Driftwood - optional
+
+---------------
+
+Past Mistakes
+
+Past Mistakes is a quest in Divinity: Original Sin 2.
+
+Detailed walkthrough
+When first encountered by Godwoken he appears as a small child trapped in a metal cage, in front of which is giant pentagram. The pentagram has 5 braziers on its ends which are protected by spirits of dead seekers.
+
+Should the godwoken decide to free Karon,  they have to light up all braziers at once (possible by casting fireball). This action will free Karon and release the spirits into the Hall of Echoes. Afterwards the player has the choice to fight Karon immediatelly or ally with him and meet him in the Crypt of Lucian.
+
+If the godwoken leave Karon in the cage and returns to the area after some time, they will find out that Karon had escaped on his own.
+
+---------------
+
+Silence Broken
+
+Silence Broken is a side quest automatically acquired when player reaches Arx in Divinity: Original Sin 2 Definitive Edition.
+
+The Purity of Divinity
+This sub quest is acquired only when one of the players characters pass the Path of Blood and receive Lucians Blessing. 
+After receiving the blessing the godwoken has to have the blessed character talk with the possessed girl who can be found between Arx harbour and the city entrance.
+Once the blessed character has interacted with the girl a fight will take place.
+
+---------------
+
+What a Fuss to have Wrought
+
+What a Fuss to have Wrought is a quest in Divinity: Original Sin 2.
+
+Quick walkthrough
+
+Loan money from Sanguinia Tell
+Enjoy the money
+Pay debt or deal with Sanguinia
+
+---------------
+
+End Times
+
+“
+Here is the truth. I have killed thousands, perhaps millions, for the greater good. But I made a mistake. It was my use of Deathfog that opened the door to the God King. It upset the Veil and took the Seven by suprise. My one mistake meant all those sacrifices were for naught. Those sacrifices must have meaning. They must stop the Void, once and for all.
+„
+—Lucian
+
+End Times is a main quest in Divinity: Original Sin 2.
+
+Quick walkthrough
+Enter the Tomb and speak with Lucian and Dallis
+Side or fight with Lucian and Dallis
+Kill Braccus Rex
+Render Lucian and Dallis unconscious if sided against them
+Decide the fate of Rivellon, by choosing what to do with Divinity
+
+Detailed walkthrough
+Entering the Tomb
+This quest is accepted once godwoken enter the Tomb of Lucian. If Malady is alive she will enter the tomb with most of the Lady Vengeance crew. They will all offer their prayers to the Godwoken and thus supply them with "infinite" source.
+
+If Sir Lora survived or was not purged he will speak with the Godwoken for the last time and run off.
+
+Upon entering the room all godwoken will be dragged into conversation with Lucian and Dallis. A long conversation takes place were they will attempt to explain their reasons and persuade the godwoken to be purged in order to seal the Veil. At the same time Dallis reveals her true identity. If Fane is in the party a small conversation takes place. In the end Dallis starts to scream at Fane only to be stopped by Lucian and told to "control herself".
+
+If Ifan is in the party he will attempt to attack Lucian before the conversation ends so if godwoken wish to side with Lucian they have to stop him from attacking Lucian.
+
+At the end of the conversation godwoken has a choice to submit or to fight against Lucian. If godwoken is sworn they are forced by the God King to fight with Lucian, unless they defy and use the swornbreaker.
+
+Siding against Lucian
+If godwoken refuses to submit or lets Ifan attack Lucian, they will have to fight them along with Braccus Rex, until he or Dallis are udner 50% of Vitality. Afterwards Braccus turns against Dallis, summons the Void and the Kraken into the tomb.
+
+During this fight Dallis assumes the form of the dragon. The Kraken summons undead Isbeil, Sallow Man and Linder Kemm to fight alongside Braccus. Lucian may or may not go immediatelly go after Braccus. However it is advised to go after Braccus since the moment Braccus dies all of his allies are defeated and then focus on Dallis with Lucian.
+
+Siding with Lucian
+If godwoken submits to Lucian, Braccus breaks free before they are purged and summons the Void along with the Kraken into the tomb.
+
+At the start of the fight Kraken summons undead Isbeil, Sallow Man and Linder Kemm to fight alongside Braccus. Lucian will during this fight focus only on Braccus. Dallis, in her dragon form, will attack the nearby enemies. In this case all godwoken has to do is to kill Braccus.
+
+Once Braccus Rex dies the fight stops and godwoken is given the choice of what to do with Divinity, regardless of whether they sided with or against Lucian.
+
+Endings
+The ending and epilogue the godwoken will experience depend on their decisions. Because of this it is advised to save the game before deciding what to do with Divinity.
+
+If the godwoken refuses to accept Divinity and there is no godwoken to take it, God King will take the Divinity.
+
+If the godwoken accepts the Divinity then few more options arise. The Godwoken can either:
+
+Allow himself/herself and Rivellon to be purged and therefore restore the Veil.
+Become Divine One
+Share Divinity with rest of the world
+The above options are avaliable only if godwoken is not sworn or did not made a pact with Adramahlihk. If the deciding godwoken is sworn then they will have to restore the Eternals back into the world (unless they used the swornbreaker).
+
+If godwoken made a pact with the doctor and keeps his/her promise then the Doctor kills Lucian and Dallis and together with the godwoken become Divines.
+
+Rewards
+Achievments dependant on the decision with Divinity:
+Risen: Ascend to Divinity
+Supreme Sacrifice: Purge Rivellon of all Source
+Return of the King: Submit to the God King
+The Adventure Begins: Release Divinity unto Rivellon
+Eternal Salvation: Bring back the Eternals but leave God King in the Void
+One for All : Share Divinity with Rivellon
+Angel and Demon: Share Divinity with Adramahlihk
+
+---------------
+
+A Wolf Alone
+
+“
+I am Ifan ben-Mezd, famed Silver Claw of the Lone Wolves. My mission is to infiltrate Fort Joy and kill Bishop Alexandar of the Divine Order.
+„
+A Wolf Alone, formerly called Ulterior Motives in early access, is a origin quest in Divinity: Original Sin 2.
+
+Quick walkthrough
+Speak to Ifan Ben-Mezd about why he is in Fort Joy, he'll explain his purpose and hand over his contract that will explain in more detail why he is there. (Only if Ifan is not already in the party)
+Find Magister Borris near the main gate to the islands fort, speak to him as Ifan or let Ifan speak to him, if you are playing as Ifan just threaten to shank him and he'll give up the information, if one has Ifan in their party he will intimidate Borris himself. If he's dead just plunder the corpse.
+He'll tell the Sourcerers that he needs to find someone named Zaleskar. For this the party needs to escape Fort Joy and get to a hill nearby most exits from the fort.
+
+Ifan ben-Mezd
+
+“
+Once, I was a crusader for the Divine Order. I pledged my life to Lucian the Divine. But the war changed everything. He sent me to save the elves I grew up amongst. I arrived too late. Lucian ordered the use of Deathfog against the Black Ring, annihilating everyone I once knew in the process. Now, I'm a mercenary killer, one of the infamous Lone Wolves. And my next target is none other than Lucian's own son...
+„
+—Ifan ben-Mezd in Divinity Original Sin 2
+
+Ifan is a grizzly looking older human, and a member of the Lone Wolves, known as the Silver Claw. He is found arguing with some of Griff's goons at the entrance to Fort Joy ghetto in 1242 AD.
+
+Background
+As a child, Ifan lived and travelled with his parents who were spice traders until a band of bandits killed them. Adopted by a nearby elven tribe after his parents murder, he lived with them until he became an adult, learning their language and customs.[1]
+
+Leaving the elves as an adult, he joined the Divine Order and quickly gained an attention and favour of Lucian the Divine himself and they became friends; however, he had a constant distrust of the Divine's son, Alexandar whispering in his father ear. In 1233 AD Lucian sent Ifan with a rift scroll to evacuate the elves from the area before a deathfog bomb was released in their lands to prevent the encroachment of the Black Ring. Making his way to the elven lands, the Ring attacked Ifan, slowing his journey, but ultimately reaching his destination, the elves eliminate his remaining pursuers.
+
+Initially met with suspicion by the elves, Ifan requests an audience with their Scions to discuss the evacuation. His elven connections earn him the trust of the community, but they suspect the intentions of his leader. however, accepting his word and agreeing to evacuate. Taking the rift scroll to check the incantation before arranging the evacuation, deathfog pours forth from the scroll, flooding the forest. Close to death, Ifan's wolf is summoned forth and extracts Ifan before he succumbed to its effects. In anger at the destruction of the elves he forsook the Divine Order and Lucian, preferring to "join the Black Ring over wearing the mark of the Divine Order again".[2]
+
+After Lucians death he joined the Lone Wolves and spent most of his time hunting his targets and drinking in the Undertavern in Driftwood. One day when having a good time with a drudanae he thinks he is attacked by a tiger and uses his source to summon a wolf into the tavern. This resulted in his capture by magisters and put aboard the Merryweather, a Magister ship for carrying sourcerers, sailing to Fort Joy on Reapers' Eye. In unbeknownst to his captors, this would prime him for his next assignment: to assassinate the leader of the Divine Order, Bishop Alexandar.[3] In addition to his contract, Ifan is made aware that he has been chosen for a greater mission: Rhalic, presenting himself to the Lone Wolf explains that he has been chosen as the Godwoken for the human race and must ascend to the position on the Divine One to prevent the voidwoken from consuming the planet.
+
+His first opportunity to strike the Bishop down is given at the north eastern dock on Reaper's Eye; attempting to escape the island with the seekers, Alexandar is awaiting at the dock with several Magisters. Although his target was rendered unconscious, Ifan was unable to complete the contract; interrupted firstly by a voidwoken deep-dweller in the midst of battle and finally Malady after the battle was over. Alexandar, taken captive, was secured on the Lady Vengeance, under Ifan's watchful eye. Unfortunately for Ifan, Alexandar was able to escape during Dallis' and Vredeman's assault on the ship, delaying the Lone Wolf's mission.
+
+Continuing on his quest to become the Divine One, Ifan reaches Driftwood, a town on Reaper's Coast, encountering Meistr Siva, Ifan expands his ability to wield Source, travelling north westerly, Ifan encounters the lizard, Hannag, the creator of the deathfog bomb at Lucian's behest. Furthermore from the lizard he learned that the teleportation device he believed he was carrying was in fact a the bomb itself. Upon learning this fact, his anger refocused on his former leader, seeking revenge and redemption for this betrayal. Continuing onward to Nameless Isle, Ifan comes face to face with Alexandar, who confirmed that he too was aware of the plan, rationalising it as the only way to win the war and losing was not a viable option.
+
+Eventually reaching Arx, Ifan descends into Lucian's crypt, discovering his former leader to still be alive. Confronting him, Ifan demands that he pay for the elven sacrifice. Attempting to reason with him, Lucian tells him that the using the bomb was a mistake, that all the sacrifices must have meaning and the void must be stopped. Even though he betrayed his subordinate, Lucian still sees him as a friend. Forgiving Lucian he gave up his source and after being restored by Malady, left into seclusion and helped the elves to regrow their forest.
+
+By 1244 AD Ifan rejoins the Order. With the Commander and Lohse, they embark on a mission to capture Malady ,who stole magical weapons from Lucian.
+
+---------------
+
+Crippling a Demon
+
+“
+I know of a way we can find this demon's home plane. If we can find it... we can destroy it. It will leave Adramahlihk severely weakened. Weak enough to kill.
+„
+—Malady
+
+Crippling a Demon is a quest in Divinity: Original Sin 2.
+
+Quick walkthrough
+Meet Malady in front of the Black House (X:406,Y:365)
+Travel to Adramahlihk's home plane
+Decide what to do with Adramahlihk's soul candle (X:69,Y:1061)
+Explore the home plane
+Decide what to do with Adramahlihk's soul candles (X:111,Y:1090)
+Explore the home plane once more
+Speak with Malady about the candles (X:158,Y:1055)
+Decide what to do with the soul candles
+Speak with Malady
+
+Detailed walkthrough
+After arriving at Arx, Malady will suggest meeting with Lohse in front of the Black House, claiming she found a way to weaken Adramahlihk.
+
+Once in front of the house Lohse has a choice of either entering the Adramahlihk's home plane in order to weaken him or deny Malady's offer and enter the House.
+
+If Lohse agrees to enter the plane, Malady will transport Lohse and the party there. Once in the plane there is a portal that can be used to exit the plane, should Lohse or godwoken change their minds, this will however make it impossible to complete the quest.
+
+Little further from the portal is the first soul candle. To investigate the candle Lohse, or godwoken have to use Spirit Vision. After finding out what or who the candle is Lohse has a choice of snuffing it or leaving it be and exiting the plane. Should Lohse decide to snuff it Malady will proceed further into the plane and create a path over the gap.
+
+On the second "island" are two soul candles. Lohse or godwoken can use Spirit Vision to investigate the souls, snuffing them on spot or leaving them be. If they are snuffed Malady will open the gate and proceed further into the plane.
+
+
+At the end of the plane is a cliff above countless soul candles. Malady will urge Lohse to snuff the candles. Once again Lohse can either let Malady snuff them or leave them be. If Lohse is in party, leading godwoken can persuade Lohse to leave or snuff the candles. By default Lohse will always let Malady destroy them.
+
+After Malady destroys the candles she will teleport godwoken and Lohse to the footsteps on the Black House and bid them to kill Adramahlihk.
+
+Rewards
+Snuffing the first candle awards 19 400 exp
+Snuffing two candles awards 19 400 exp
+Snuffing all candles at the end of the plane awards 58 175 exp
+Adramahlihk will be drastically weakened if all candles are snuffed out
+It will be impossible to make a pact with him
+For completing the quest: Gold, Rune Frame, Random weapon (legendary quality), random skill book
+Choice from: Random armour and accesory of legendary quality
+
+Lohse
+
+“
+All my life I've been a performer, a musician; beloved and celebrated by all. But I have a secret: I'm also a playground for sprites and spirits and... worse. The voice that rings inside me now is darker than any that came before; almost caused a bunch of my fans to rip each other to pieces! But you can trust me, I've got this under control."
+
+Lohse is a human bard first encountered while aboard the Merryweather who winds up on Fort Joy.
+
+Background
+Lohse seems upbeat and energetic, as well as sarcastic and good humored; but deep inside her psyche, there is evil taking root and spreading throughout her. Despite this, Lohse is a lively character with a sassy attitude. She wants nothing more than to rid herself of the demon lurking inside her mind.
+
+While her overall temperament is kind and compassionate, the darkness she keeps just below the surface—while no choice of her own—does affect her judgment and personality, thus warping it on occasion into something twisted and sinister.
+
+Lohse has been arrested by magisters in 1242 AD after her source powers manifested during her concert near Arx.
+
+---------------
+
+Hunting the Dreamer
+
+Hunting the Dreamer is a quest in Divinity: Original Sin.
+
+---------------
+
+Hunting the Master
+
+Hunting the Master is a quest in Divinity: Original Sin 2.
+
+---------------
+
+Make a Brave Face of It
+
+Make a Brave Face of It is a origin quest obtained when you add Fane to your party or immediatelly after landing upon Fort Joy as him
+
+Description
+During Windegos attack and escape from the Merryweather ship she stole Shapeshifting Mask from Fane. 
+
+Walkthrough
+Craft a New Mask
+Fane needs to find a Face Ripper - or someone who can make one
+This quest can be progressed by speaking with blacksmith Nebora located near entrance to Fort Joy. If player has Fane as companion and lets him talk with Nebora the player will gain +10 to attitude.
+Find Kniles
+Kniles the Flenser can be found in Fort Joy dungeons in "Flensers Playground". He can be found there talking to one of his silent monks.
+There are two ways of getting Face-Ripper from him
+By killing him and looting it from his corpse
+By giving him leg of Atusa who was a lizard magister and executed for treachery by Dallis at Fort Joy entrance. If player lets Fane do the talking as a companion the player will receive +10 to attitude.
+Craft a new Mask of the Shapeshifter
+To progress this quest the player has to create a mask of the shapeshifter. To do so the player needs:
+Source Orb
+Face from any dead person (The player has to use Face Ripper on corpse to acquire face)
+The player will gain the recipes for the masks either by talking with Fane or by progressing this quest up to this point.
+
+Rewards
+
+Increased attitude of Fane towards the main character.
+
+---------------
+
+The Thing Inside
+
+“
+A bad gig landed me on the wrong side of the Magisters, but how bad can Fort Joy be? If the voice in my head shuts up, I should be okay.
+„
+
+The Thing Inside is a quest in Divinity: Original Sin 2.
+
+Quick walkthrough
+Silence the voice in your head. 
+Get help. - Speak to Saheila or imprisoned dwarf in Fort Joy' dungeon.
+Escape the Island. 
+Talk to Malady.
+Find the demonologist. When you find him he gives you two quests. One is to assassinate the Advocate and the other one is to acquire the Archdemons name. The name can be acquired by talking to the mothertree in middle of the island​​​​​. The tree will respond in alien language for the first time. To be able to get the name you have to find the name of the tree first in the archives which are on northern part of Bloodmoon Island and then speak to her again.
+Assasinate the Advocate. During this quest you have to kill the Advocate (Adramahlihk will not be pleased by this and will send his lackeys after you once you are in Arx).
+Report back to Jahan. Once you have killed the Advocate and acquired the Archdemons name he will try to exorcise the demon from Lohse. This attempt is unsuccessful and after this he goes to Lady Vengeance. He can also teach you how to harness Source but through purging his demon prisoners.
+Journey to the city of Arx. The origin quest for Lohse states that she must now travel to Arx to progress it.
+Speak to Malady in Arx. After the player arrives in Arx, Malady will tell Lohse that she has a plan on how to deal with Archdemon and will say that you have to meet her before his house.
+Travel to Adramahlihk's home plane. During this quest Lohse has to douse all candles which contain the persons soul (this will result in their permanent death). You can leave the dimension or refuse to snuff out the candles but if the player does so they will have to face Adramahlihk in full strength (He is one of the hardest bosses in game)
+Face the demon. Face Adramahlihk. - Face Adramahlihk. If you fight him you have to defeat him in three rounds because if the player doesn't do so he will permanently possess Lohse (if Lohse is your main character you get Game Over).
+If you side with him you will get "Demon Ending" and he will kill all characters which were not in your party (including Dallis and Lucian if they survived and the player sided with them)
+Divinity beckons... - Descend into Lucian's crypt 
+
+---------------
+
+A Rare Prey
+
+A Rare Prey is a quest in Divinity: Original Sin 2.
+
+Detailed walkthrough
+Meet Windego on the ship, The Hold.
+After escaping from the Fort itself the player will encounter Windego a second time in the Hollow Marsh.
+After the player rescues the Seeker leader Gareth during Most Dangerous When Cornered he will inform the player back at the Sanctuary of Amadia that they came for the godwoken and that someone is hunting them.
+If the player has Ifan in the party he will reveal that the Lone Wolves are the ones hunting the Godwoken.
+
+---------------
+
+Signs of Resistance
+
+Signs of Resistance is a chronicle in Divinity: Original Sin 2.
+
+Quick walkthrough
+You'll begin the quest by finding a letter from Dallis, The Hammer warning the Magisters of a group called The Seekers. (Need to re-find the letter and add it)
+Enter the Holding cells below Fort Joy and defeat the Houndmaster and his goons. You'll find Magister Delorus there; use a healing spell or give him a healing potion to learn about a way to escape the prison.
+Go to the second floor of the fort and you'll find Magister Goa and Carin harassing a kid named Han; either convince the two that you are there to help or kill them.
+Talk to Han and escape via the boat to the Hollow Marshes.
+Make your way to the other side of the island to the Sanctuary of Amadia and speak to the group of Seekers.
+Head north to find Gareth and help him fight off the Magisters.
+Acquire a Purging Wand and return to Gareth.
+
+---------------
+
+
+
+
+
+
+
+
+
